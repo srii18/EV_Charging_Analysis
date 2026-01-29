@@ -1,0 +1,79 @@
+2026-01-29 21:44:05 - ChargeSmart - INFO - ====================================================================================================
+2026-01-29 21:44:05 - ChargeSmart - INFO -                         CHARGESMART INDIA - STRATEGIC RECOMMENDATION SYSTEM                         
+2026-01-29 21:44:05 - ChargeSmart - INFO - ====================================================================================================
+2026-01-29 21:44:05 - ChargeSmart - INFO - Analysis Date: January 29, 2026
+2026-01-29 21:44:05 - ChargeSmart - INFO - [STEP 1/5] Loading and cleaning datasets...
+2026-01-29 21:44:05 - ChargeSmart - ERROR - EV sales data file not found: C:\Users\vijay\Desktop\Infinity\TechSaksham\Shell_Workshop\Strategic_Recommedation_System\EV_Charging_Analysis\data\raw\EV_Dataset.csv
+2026-01-29 21:44:05 - ChargeSmart - INFO - Please ensure EV_Dataset.csv is in the data/raw/ directory
+2026-01-29 21:46:44 - ChargeSmart - INFO - ====================================================================================================
+2026-01-29 21:46:44 - ChargeSmart - INFO -                         CHARGESMART INDIA - STRATEGIC RECOMMENDATION SYSTEM                         
+2026-01-29 21:46:44 - ChargeSmart - INFO - ====================================================================================================
+2026-01-29 21:46:44 - ChargeSmart - INFO - Analysis Date: January 29, 2026
+2026-01-29 21:46:44 - ChargeSmart - INFO - [STEP 1/5] Loading and cleaning datasets...
+2026-01-29 21:46:44 - ChargeSmart - INFO - [STEP 2/5] Cleaning and validating data...
+2026-01-29 21:46:44 - ChargeSmart - ERROR - Data validation failed: Charging stations data validation failed: ['Found 1 records with empty state names']
+2026-01-29 21:47:42 - ChargeSmart - INFO - ====================================================================================================
+2026-01-29 21:47:42 - ChargeSmart - INFO -                         CHARGESMART INDIA - STRATEGIC RECOMMENDATION SYSTEM                         
+2026-01-29 21:47:42 - ChargeSmart - INFO - ====================================================================================================
+2026-01-29 21:47:42 - ChargeSmart - INFO - Analysis Date: January 29, 2026
+2026-01-29 21:47:42 - ChargeSmart - INFO - [STEP 1/5] Loading and cleaning datasets...
+2026-01-29 21:47:42 - ChargeSmart - INFO - Loaded 96,845 EV sales records
+2026-01-29 21:47:42 - ChargeSmart - INFO - Loaded 855 charging station records
+2026-01-29 21:47:42 - ChargeSmart - INFO - [STEP 2/5] Cleaning and validating data...
+2026-01-29 21:47:42 - ChargeSmart - INFO - Cleaned EV sales data: 5,167 records
+2026-01-29 21:47:42 - ChargeSmart - INFO - Cleaned stations data: 788 records
+2026-01-29 21:47:42 - ChargeSmart - INFO - [STEP 3/5] Performing demand-supply gap analysis...
+2026-01-29 21:47:42 - ChargeSmart - INFO - Starting gap analysis...
+2026-01-29 21:47:42 - ChargeSmart - INFO - Calculating demand metrics...
+2026-01-29 21:47:42 - ChargeSmart - INFO - Calculated demand metrics for 33 states
+2026-01-29 21:47:42 - ChargeSmart - INFO - Calculating supply metrics...
+2026-01-29 21:47:42 - ChargeSmart - INFO - Calculated supply metrics for 11 states
+2026-01-29 21:47:42 - ChargeSmart - INFO - Calculating priority scores...
+2026-01-29 21:47:42 - ChargeSmart - INFO - Gap analysis complete for 33 states
+2026-01-29 21:47:42 - ChargeSmart - INFO - Total recommended new stations: 1674
+2026-01-29 21:47:42 - ChargeSmart - INFO - [STEP 4/5] Saving analysis results...
+2026-01-29 21:47:42 - ChargeSmart - INFO - [STEP 5/5] Generating summary...
+2026-01-29 21:47:42 - ChargeSmart - INFO - === ANALYSIS SUMMARY ===
+2026-01-29 21:47:42 - ChargeSmart - INFO - Total states analyzed: 33
+2026-01-29 21:47:42 - ChargeSmart - INFO - States with infrastructure: 10
+2026-01-29 21:47:42 - ChargeSmart - INFO - States without infrastructure: 23
+2026-01-29 21:47:42 - ChargeSmart - INFO - Total EV sales (2022-2024): 2,688,900.0
+2026-01-29 21:47:42 - ChargeSmart - INFO - Total current stations: 787.0
+2026-01-29 21:47:42 - ChargeSmart - INFO - Total recommended stations: 1,674
+2026-01-29 21:47:42 - ChargeSmart - INFO - Priority Distribution:
+2026-01-29 21:47:42 - ChargeSmart - INFO -   LOW - Monitor & Plan: 23
+2026-01-29 21:47:42 - ChargeSmart - INFO -   HIGH - Priority Investment: 5
+2026-01-29 21:47:42 - ChargeSmart - INFO -   MEDIUM - Strategic Development: 3
+2026-01-29 21:47:42 - ChargeSmart - INFO -   CRITICAL - Immediate Action: 2
+2026-01-29 21:47:42 - ChargeSmart - INFO - Top 5 Priority States:
+2026-01-29 21:47:42 - ChargeSmart - INFO -   1. Uttar Pradesh (Score: 91.8, Recommended: 464 stations)
+2026-01-29 21:47:42 - ChargeSmart - INFO -   2. Maharashtra (Score: 80.7, Recommended: 344 stations)
+2026-01-29 21:47:42 - ChargeSmart - INFO -   3. Karnataka (Score: 71.6, Recommended: 170 stations)
+2026-01-29 21:47:42 - ChargeSmart - INFO -   4. Rajasthan (Score: 71.4, Recommended: 119 stations)
+2026-01-29 21:47:42 - ChargeSmart - INFO -   5. Gujarat (Score: 69.1, Recommended: 108 stations)
+2026-01-29 21:47:42 - ChargeSmart - INFO - ====================================================================================================
+2026-01-29 21:47:42 - ChargeSmart - INFO -                                          ANALYSIS COMPLETE                                          
+2026-01-29 21:47:42 - ChargeSmart - INFO - ====================================================================================================
+2026-01-29 21:47:42 - ChargeSmart - INFO - Next steps:
+2026-01-29 21:47:42 - ChargeSmart - INFO - 1. Run 'streamlit run app/dashboard.py' to launch interactive dashboard
+2026-01-29 21:47:42 - ChargeSmart - INFO - 2. Check the outputs/ directory for detailed CSV files
+2026-01-29 21:47:42 - ChargeSmart - INFO - 3. Review the visualizations and recommendations
+2026-01-29 22:47:16 - ChargeSmart - INFO - Loaded 96,845 EV sales records
+2026-01-29 22:47:16 - ChargeSmart - INFO - Loaded 855 charging station records
+2026-01-29 22:47:17 - ChargeSmart - INFO - Cleaned EV sales data: 5,167 records
+2026-01-29 22:47:17 - ChargeSmart - INFO - Cleaned stations data: 788 records
+2026-01-29 22:47:17 - ChargeSmart - INFO - Starting gap analysis...
+2026-01-29 22:47:17 - ChargeSmart - INFO - Calculating demand metrics...
+2026-01-29 22:47:17 - ChargeSmart - INFO - Calculated demand metrics for 33 states
+2026-01-29 22:47:17 - ChargeSmart - INFO - Calculating supply metrics...
+2026-01-29 22:47:17 - ChargeSmart - INFO - Calculated supply metrics for 11 states
+2026-01-29 22:47:17 - ChargeSmart - INFO - Gap analysis complete for 33 states
+2026-01-29 22:47:17 - ChargeSmart - INFO - Total recommended new stations: 782
+2026-01-29 22:47:17 - ChargeSmart - INFO - Analysis complete! Results saved to C:\Users\vijay\Desktop\Infinity\TechSaksham\Shell_Workshop\Strategic_Recommedation_System\EV_Charging_Analysis\data\processed\gap_analysis_complete.csv
+2026-01-29 22:47:17 - ChargeSmart - INFO - Total regions analyzed: 33
+2026-01-29 22:47:17 - ChargeSmart - INFO - LOW - Monitor & Plan: 23
+2026-01-29 22:47:17 - ChargeSmart - INFO - MEDIUM - Strategic Development: 6
+2026-01-29 22:47:17 - ChargeSmart - INFO - HIGH - Priority Investment: 3
+2026-01-29 22:47:17 - ChargeSmart - INFO -   Uttar Pradesh (Score: 0.948, Recommended: 152 stations)
+2026-01-29 22:47:17 - ChargeSmart - INFO -   Maharashtra (Score: 0.641, Recommended: 112 stations)
+2026-01-29 22:47:17 - ChargeSmart - INFO -   Rajasthan (Score: 0.630, Recommended: 59 stations)
