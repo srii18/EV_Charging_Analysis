@@ -55,7 +55,7 @@ st.markdown("""
 CONFIG = {
     'data_paths': {
         'forecast': 'data/processed/ev_sales_forecast.csv',
-        'stations': 'data/raw/Indian_EV_Stations_Simplified.csv',
+        'stations': 'data/processed/india_ev_stations_cleaned.csv',
         'gap_analysis': 'data/processed/detailed_gap_analysis.csv',
         'priority': 'data/processed/priority_states.csv',
         'geojson': 'data/india_states.geojson'
@@ -99,7 +99,7 @@ def load_data():
         # Validate required columns
         required_cols = {
             'forecast': ['State', 'Current_Monthly_Sales', 'Predicted_Monthly_Sales', 'Growth_Rate_%'],
-            'stations': ['State', 'Station Name'],
+            'stations': ['State', 'AddressInfo.Title'],
             'gap_analysis': ['State', 'Station_Count', 'EV_Sales_Quantity'],
             'priority': ['State', 'Recommended_New_Stations']
         }
@@ -335,7 +335,7 @@ with col1:
     """, unsafe_allow_html=True)
 
 with col2:
-    total_stations = stations_df['Station Name'].nunique()
+    total_stations = stations_df['AddressInfo.Title'].nunique()
     st.markdown(f"""
     <div class="metric-card">
         <h3>Charging Stations</h3>
@@ -411,11 +411,11 @@ with tab1:
         m_current = folium.Map(location=[20.5937, 78.9629], zoom_start=5)
         
         for _, station in stations_df.iterrows():
-            if pd.notna(station.get('Latitude')) and pd.notna(station.get('Longitude')):
+            if pd.notna(station.get('AddressInfo.Latitude')) and pd.notna(station.get('AddressInfo.Longitude')):
                 folium.CircleMarker(
-                    location=[station['Latitude'], station['Longitude']],
+                    location=[station['AddressInfo.Latitude'], station['AddressInfo.Longitude']],
                     radius=3,
-                    popup=f"{station['Station Name']}<br>State: {station['State']}",
+                    popup=f"{station['AddressInfo.Title']}<br>State: {station['State']}",
                     color='blue',
                     fill=True,
                     fillColor='blue',
@@ -554,14 +554,14 @@ with tab2:
     
     with col2:
         # Power distribution
-        if 'Power (kW)' in stations_df.columns:
+        if 'Max_Power_KW' in stations_df.columns:
             fig_power_dist = px.histogram(
-                stations_df[stations_df['Power (kW)'] > 0],
-                x='Power (kW)',
+                stations_df[stations_df['Max_Power_KW'] > 0],
+                x='Max_Power_KW',
                 nbins=20,
                 title='Charging Station Power Distribution',
                 color='Connector Type' if 'Connector Type' in stations_df.columns else None,
-                labels={'Power (kW)': 'Power (kW)'}
+                labels={'Max_Power_KW': 'Max_Power_KW'}
             )
             fig_power_dist.update_layout(height=400)
             st.plotly_chart(fig_power_dist, width='stretch')

@@ -11,3 +11,4 @@ jupyter==1.0.0
 ipykernel==6.0.0
 kagglehub==0.2.0
 xgboost==1.7.0
+requests==2.31.0

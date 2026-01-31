@@ -1,0 +1,968 @@
+AddressInfo.Title,AddressInfo.Latitude,AddressInfo.Longitude,State,City,Max_Power_KW
+Poojari’s Nirantara,12.14124,76.50854,Karnataka,Mysuru,30.0
+Annai Ananda Bhavan Restaurant,12.12502,78.13515,Tamil Nadu,A.Reddihalli,60.0
+Nest Homestay EVOK | Adimali,10.017257943716489,77.00066031382221,Kerala,Adimali,30.0
+EQ Kalayil EVCS | Adoor,9.147193176115792,76.73240138590631,Kerala,Adoor,30.0
+JB Power EVCS - GO EC,9.116847049005273,76.74511188165377,Kerala,Adoor,60.0
+Peninsula Park Residency EVCS - GO EC,9.145305964259492,76.76585838641842,Kerala,Adoor,30.0
+Green Earth - GO EC,9.153564153649183,76.73554436189625,Kerala,Adoor,60.0
+SR Auto Zone - ChargeMOD,9.16249940510822,76.71051677559518,Kerala,Adoor,30.0
+Wyte Portico Hotel,9.161947571551806,76.72149631338965,Kerala,Adoor,24.0
+Statiq Jaypee Agra,27.153405340639026,78.07073593311952,Uttar Pradesh,Agra,120.0
+Indira Nagar,19.051818918414952,74.72343146,Maharashtra,Ahmednagar,60.0
+RG Nallanna EVCS (EVOK) - ChargeMOD,11.17327990543808,75.9021518,Kerala,Aikkarapadi,30.0
+Akshara Pure Veg,14.08641,76.54001,Karnataka,Aimangala,60.0
+Cassia Regency EVCS - GO EC,9.490169816576028,76.32073716,Kerala,Alappuzha,30.0
+Neo Charge EVCS - GO EC,9.559497168686136,76.32821358891908,Kerala,Alappuzha,30.0
+Jason Orchard Inn EVCS - GO EC,9.562575062,76.32758403292866,Kerala,Alappuzha,30.0
+Amma Restaurant,9.519932044528945,76.32752164445753,Kerala,Alappuzha,30.0
+Thankamanys EV Fast Charging Station - ChargeMOD,9.505147465480915,76.32832598188742,Kerala,Alappuzha,30.0
+Cassia Restaurant,9.518713883149715,76.32748515490442,Kerala,Alappuzha,60.0
+Doctor Green EVCS - GO EC,10.646166361085193,76.55140239344632,Kerala,Alathur,60.0
+SJ Eco Power Charge - GO EC,10.638304424407124,76.52393013576875,Kerala,Alathur,7.4
+Calvarymount Jerry Plaza,9.806942489,77.04794025522557,Kerala,Alliyar,30.0
+Innate Convention Centre ,10.134847382197862,76.35454903990177,Kerala,Aluva,30.0
+Rajagiri Hospital EVCS - ChargeMOD,10.088031831505504,76.38904221,Kerala,Aluva,30.0
+Gokulam Residency - Tata Power,10.436187097899406,76.26520583,Kerala,Amballur,25.0
+Topup Zone EVCS - ChargeMOD,10.433892384483272,76.26514871789954,Kerala,Amballur,60.0
+"SR Jungle Resort, Anaikatti",11.11848,76.75985,Tamil Nadu,Anaikatti,22.0
+Sree Gokulam Motors - Tata Power,10.22106035947604,76.37675213,Kerala,Angamaly,30.0
+V-Green EVCS - GO EC,10.20178008680135,76.40966162425627,Kerala,Angamaly,80.0
+EVOK Charging Station - ChargeMOD,10.21406147599896,76.37936728862815,Kerala,Angamaly,30.0
+Edassery Blue Bells EVCS - ChargeMOD,10.197144124540088,76.38410959459151,Kerala,Angamaly,30.0
+Hotel Elite Palazzo,10.189753400173174,76.38664227055722,Kerala,Angamaly,50.0
+Maxx Inn M Star,10.222723756649074,76.37569774238432,Kerala,Angamaly,24.0
+GO Green EVCS - GO EC,9.753999722373322,76.70127896431035,Kerala,Anthikkad,30.0
+Club Mahindra Aleppey Resort,9.859751104489362,76.33582416512633,Kerala,Arookutty,22.0
+Gandhi Nagar KSEB EVCS - ChargeMOD,9.632684209424426,76.52440170126067,Kerala,Arpookara,30.0
+FC - TataPower - TMSC Chandrani Enterprises,23.66383145481386,87.05782811,West Bengal,Asansol,25.0
+Athani Energize EVCS,10.141443983212852,76.35293383093199,Kerala,Athani,80.0
+Hotel Airlink Castle - GO EC,10.155053463306784,76.35471452974735,Kerala,Athani,24.0
+Hill View Resort (EVOK) - ChargeMOD,10.286039650950215,76.55851558,Kerala,Athirappilly,30.0
+Sowmya Fuel Station,12.78393,77.75433,Karnataka,Attibele,30.0
+"Shell Recharge, Chandapura",12.78840738219364,77.73682462376587,Karnataka,Attibele,120.0
+Aeron EVCS - GO EC,8.686808046081069,76.82402232674082,Kerala,Attingal,30.0
+Zenith EVCS - GO EC,8.733067658594678,76.81064655334814,Kerala,Attingal,30.0
+Avananchery KSEB EVCS - ChargeMOD,8.690987763706332,76.84839779,Kerala,Attingal,30.0
+Astro Burgers,8.687607887565733,76.82992395389022,Kerala,Attingal,24.0
+"Adyar Ananda Bhavan, Attur",11.592,78.62726,Tamil Nadu,Attur,50.0
+Junior Kuppanna,11.17708,77.24713,Tamil Nadu,Avinashi,30.0
+"Sree Annapoorna Hotel, Avinashi",11.17513,77.26342,Tamil Nadu,Avinashi,60.0
+Cafe Udupi Ruchi,11.17719,77.28392,Tamil Nadu,Avinashi,50.0
+Annapoorna - NH Avinashi,11.1778,77.28318,Tamil Nadu,Avinashi,30.0
+Amma Veedu Restaurent,8.930368464794824,76.85381998387061,Kerala,Ayoor,30.0
+BPCL Bagalkote,16.18182,75.63617,Karnataka,Bagalkote,30.0
+Samara's Veg,13.79204,77.76632,Karnataka,Bagepalli,240.0
+"WheelsDrive Charger, Bajagoly",13.19883,75.06799,Karnataka,Bajagoly,30.0
+PCR Bank EVCS - ChargeMOD,11.997449451910612,75.37090752986185,Kerala,Bakkalam,30.0
+Mahindra Bellary Motors,15.14016,76.97093,Karnataka,Ballari,60.0
+Bellad Enterprises Pvt Ltd,15.1624,76.86862,Karnataka,Ballari,30.0
+Shell Recharge Avalahalli,13.04041,77.74131,Karnataka,Bandapura,120.0
+KTC Legacy Charging Station,12.945761639147053,77.67413004669817,Karnataka,Bangalore,60.0
+Hotel Indraprastha,12.941033267964473,76.35064287596902,Karnataka,Baragur,60.0
+FC - JioBP - WBSDCL Athupur,22.839467099235264,88.38586414053952,West Bengal,Barrakpore,30.0
+Taj Bekkal - Tata Power,12.42338327765249,75.01475480358593,Kerala,Bekkal,7.4
+ITC Welcome Hotel,15.92777043150447,74.53233233195056,Karnataka,Belagavi,60.0
+Gogte Plaza,15.928451456254336,74.52903791342621,Karnataka,Belagavi,60.0
+RR Mall Belagavi,15.901614805901248,74.52143374766956,Karnataka,Belagavi,60.0
+Hotel Ramdev,15.878287475844717,74.51579659267398,Karnataka,Belagavi,30.0
+"UK27 The Fern - An Ecotel Hotel, Belagavi",15.87496,74.51343,Karnataka,Belagavi,24.0
+Pai Resorts,15.867344553938452,74.52868439845417,Karnataka,Belagavi,30.0
+"Manickbag Automobiles, Belagavi",15.8188,74.49224,Karnataka,Belagavi,25.0
+Miraculum Kia,15.80545,74.48541,Karnataka,Belagavi,90.0
+BPCL Goral Petroleum,15.83662,74.49365,Karnataka,Belagavi,30.0
+Shri Mahalingeshwar Petroleums,15.80585,74.57531,Karnataka,Belagavi,30.0
+Shell Recharge Heggeri Dharwad,15.52849,74.90613,Karnataka,Belur,120.0
+Electronic City - BPCL,12.85327,77.6672,Karnataka,Bengaluru,30.0
+Monk Mansion,12.841088856819354,77.66441658541129,Karnataka,Bengaluru,60.0
+BloomSuites,12.839685411251564,77.65952566488613,Karnataka,Bengaluru,30.0
+Metro Cash&Carry,12.86106588,77.66099764437081,Karnataka,Bengaluru,7.4
+Miracle Dhaba,13.08468,77.41488,Karnataka,Bengaluru,60.0
+Lithium Charging Station,13.014903182800126,77.64620471,Karnataka,Bengaluru,30.0
+MG Motor B Narayanapura,12.99577,77.6847,Karnataka,Bengaluru,50.0
+Trifecta Addatto,12.994305942257284,77.69929493060977,Karnataka,Bengaluru,60.0
+Epitome KIA Whitefield,12.985769101393643,77.70856232742358,Karnataka,Bengaluru,150.0
+BMW Deutsche Motoren,12.984136068485071,77.70811153054012,Karnataka,Bengaluru,50.0
+Lithium Urban Tech Pvt Ltd,12.98306,77.70906,Karnataka,Bengaluru,60.0
+"Fairfield by Marriott, Mahadevapura",12.981842444072356,77.70863283,Karnataka,Bengaluru,30.0
+Prestige Technostar,12.972600290996027,77.71145680417794,Karnataka,Bengaluru,60.0
+KHT Brookefield,12.96712414548928,77.71696159433418,Karnataka,Bengaluru,25.0
+JLR Shakti Auto,12.963582255188314,77.71737953,Karnataka,Bengaluru,25.0
+goEgo EV CHARGE PARK,12.96316,77.71814,Karnataka,Bengaluru,60.0
+"Jio-bp Pulse Hub, Siddhapura",12.957173268150797,77.72954555409183,Karnataka,Bengaluru,60.0
+DivyaSree LitBox,12.97098961190295,77.72502446,Karnataka,Bengaluru,60.0
+Marriott Hotel Whitefield,12.979262407836174,77.72744812682743,Karnataka,Bengaluru,30.0
+Nexus Shantiniketan Jio-BP,12.989040024957774,77.72758362256013,Karnataka,Bengaluru,60.0
+Nexus Shantiniketan - Statiq,12.989065694796125,77.72760379808074,Karnataka,Bengaluru,60.0
+Sheraton Grand Bengaluru Whitefield Hotel & Convention Center,12.989215375302493,77.72961910576282,Karnataka,Bengaluru,30.0
+Divyasree NR Enclave,12.986347110711025,77.73038387486008,Karnataka,Bengaluru,60.0
+Park Square Mall,12.987280089618991,77.73628236461366,Karnataka,Bengaluru,25.0
+Taj Vivanta Whitefield,12.98720238234145,77.7373663,Karnataka,Bengaluru,30.0
+The Zinc By Fern Hotels,12.97757571689229,77.75708951,Karnataka,Bengaluru,24.0
+Nexus Whitefield Statiq,12.960076399887868,77.74719391663552,Karnataka,Bengaluru,60.0
+Nexus Whitefield Jio-BP,12.960076399887868,77.74719391663552,Karnataka,Bengaluru,60.0
+Forum South Bengaluru,12.88919162512768,77.56343684144673,Karnataka,Bengaluru,60.0
+"Global Mall, Okalipuram",12.98211,77.56317,Karnataka,Bengaluru,30.0
+Freedom Park,12.97859,77.58139,Karnataka,Bengaluru,25.0
+Jio-BP Pulse Varthur Hub,12.93979,77.73447,Karnataka,Bengaluru,60.0
+"Jio-BP Pulse Hub, Marathalli",12.95179,77.70207,Karnataka,Bengaluru,60.0
+Exora Business Park,12.94329,77.69229,Karnataka,Bengaluru,60.0
+Aloft Bengaluru Outer Ring Road ,12.93674468018763,77.69488851137544,Karnataka,Bengaluru,60.0
+Bellandur Charging Hub,12.92924,77.70305,Karnataka,Bengaluru,60.0
+Big Pitcher Sarjapur Road,12.90986,77.68856,Karnataka,Bengaluru,60.0
+RMZ Eco World,12.92099415205729,77.68605456,Karnataka,Bengaluru,50.0
+The Bay at Ecoworld,12.921003663939288,77.68539425864924,Karnataka,Bengaluru,80.0
+Courtyard by Marriott,12.928234378881882,77.68218794687056,Karnataka,Bengaluru,60.0
+DoubleTree Suites by Hilton Bengaluru Outer Ring Road,12.919111753741149,77.66515519490173,Karnataka,Bengaluru,60.0
+MG Motor Hosur Road,12.86563,77.65753,Karnataka,Bengaluru,50.0
+"Kropex Auto, Hosur Road",12.87194,77.65095,Karnataka,Bengaluru,25.0
+Metropolis Gurukrupa,12.87544,77.64835,Karnataka,Bengaluru,60.0
+"More Hypermarket, Hosur Road",12.88014,77.64592,Karnataka,Bengaluru,60.0
+"Prerana Motors, Hongasandra",12.8912,77.63829,Karnataka,Bengaluru,25.0
+Pratham Motors,12.89388,77.65157,Karnataka,Bengaluru,60.0
+Divija EV charging Station,12.918010619982525,77.64926514630082,Karnataka,Bengaluru,25.0
+"Bengaluru One, Old Airport Road",12.95925146155301,77.6627608,Karnataka,Bengaluru,25.0
+Divyashree Greens,12.952724425242494,77.64085233195198,Karnataka,Bengaluru,60.0
+Carzonrent,12.974519436687544,77.62146110718822,Karnataka,Bengaluru,60.0
+The Park Hotel,12.973940635420362,77.61988884794027,Karnataka,Bengaluru,30.0
+Taj MG Road,12.97331434540071,77.6195781,Karnataka,Bengaluru,30.0
+"The Oberoi, Bengaluru",12.972788253204088,77.61840478,Karnataka,Bengaluru,60.0
+The Pavilion 2,12.90375,77.60136,Karnataka,Bengaluru,150.0
+Anant Cars Bannerghatta Road,12.90302,77.60159,Karnataka,Bengaluru,30.0
+"Key Motors, Bannerghatta Road",12.88912,77.59736,Karnataka,Bengaluru,24.0
+Royal Meenakshi Mall,12.8759,77.59583,Karnataka,Bengaluru,60.0
+"Key Motors, Kanakapura Main Road",12.90401,77.57358,Karnataka,Bengaluru,25.0
+BESCOM Rajarajeshwari Nagar,12.92905,77.514789,Karnataka,Bengaluru,50.0
+BESCOM Byatarayanapura,12.950278857508296,77.54055692747397,Karnataka,Bengaluru,15.0
+Welcomhotel Richmond Road,12.968709974182843,77.61440938105488,Karnataka,Bengaluru,60.0
+Vivanta by Taj Residency Road,12.97248838809081,77.60854161055966,Karnataka,Bengaluru,30.0
+Forum Rex Walk,12.972458,77.606851,Karnataka,Bengaluru,30.0
+BMW Navnit Motors,12.97259859569182,77.59908118684689,Karnataka,Bengaluru,24.0
+Hotel Southern Star,12.974727464060706,77.59942186908683,Karnataka,Bengaluru,30.0
+Sundaram Motors,12.973845154518216,77.59597891080779,Karnataka,Bengaluru,90.0
+JW Marriott,12.97228768658023,77.59492658243641,Karnataka,Bengaluru,60.0
+Audi Central,12.97001545590929,77.60047478,Karnataka,Bengaluru,60.0
+"Adishakti Cars, Hebbal",13.04291,77.60927,Karnataka,Bengaluru,25.0
+Sixth Gear Cars,13.046755410837209,77.59123644794158,Karnataka,Bengaluru,60.0
+Orion Avenue,13.001137938818005,77.63254,Karnataka,Bengaluru,60.0
+Gokulam Grand Hotel & Spa,13.04204,77.55465,Karnataka,Bengaluru,25.0
+Elements Mall,13.04612,77.6269,Karnataka,Bengaluru,150.0
+Jio BP Charging Hub Chikkagubbi ,13.08784814118694,77.66014774782752,Karnataka,Bengaluru,60.0
+Jaguar Land Rover Cars Airport Road,13.11756,77.60923,Karnataka,Bengaluru,50.0
+Jio BP Chikkajala,13.16554,77.62933,Karnataka,Bengaluru,60.0
+Moxy Bengaluru Airport Prestige Tech Cloud,13.19211,77.64456,Karnataka,Bengaluru,30.0
+Taj Bangalore,13.19736,77.71011,Karnataka,Bengaluru,60.0
+GLIDA Charging Hub,13.18324,77.67608,Karnataka,Bengaluru,60.0
+GAIL Gas Station -Tata Power,13.15341,77.72827,Karnataka,Bengaluru,30.0
+Orion Uptown Mall,13.05515,77.7638,Karnataka,Bengaluru,60.0
+Kia India Training Center,13.05242,77.74675,Karnataka,Bengaluru,150.0
+ITC Gardenia Bengaluru,12.96728,77.59552,Karnataka,Bengaluru,30.0
+Divyasree Chambers,12.96192,77.59922,Karnataka,Bengaluru,60.0
+ibis Bengaluru City Centre,12.96751,77.5939,Karnataka,Bengaluru,60.0
+Hotel Kadamba Veg,12.9019345,77.4689096,Karnataka,Bengaluru,24.0
+ibis Bengaluru Hosur Road,12.90073,77.63203,Karnataka,Bengaluru,60.0
+Blusmart Charging Station (HSR Hub),12.90212,77.64191,Karnataka,Bengaluru,60.0
+"La Maison Citroën Hosur Road, Bengaluru",12.86308,77.65922,Karnataka,Bengaluru,60.0
+JioBP Pulse Charging Hub - Electronic City Phase II,12.86462,77.67486,Karnataka,Bengaluru,60.0
+Jio BP Chandapura,12.79284,77.72766,Karnataka,Bengaluru,60.0
+Blusmart Charging Station Electronic City Phase 1,12.82734,77.65552,Karnataka,Bengaluru,60.0
+Blusmart Charging Station (Gottigere Hub),12.85845,77.58721,Karnataka,Bengaluru,60.0
+Shell Recharge Kanakapura Road,12.86276,77.53146,Karnataka,Bengaluru,120.0
+Shell Recharge Yelachenahalli,12.89719,77.57071,Karnataka,Bengaluru,120.0
+Shell Recharge Haralur,12.91293,77.66542,Karnataka,Bengaluru,120.0
+Shell Recharge Marathahalli,12.94285,77.69782,Karnataka,Bengaluru,120.0
+Shell Recharge Prestige Tech Park,12.94269,77.69235,Karnataka,Bengaluru,30.0
+Shell Recharge Bagmane Solarium,12.9717,77.7075,Karnataka,Bengaluru,30.0
+Shell Recharge Prestige Shantiniketan,12.992,77.7299,Karnataka,Bengaluru,30.0
+Shell Recharge Brookfield,12.982973492700651,77.708086,Karnataka,Bengaluru,120.0
+Shell Recharge Mahadeva Kodigehalli,13.15446,77.70277,Karnataka,Bengaluru,30.0
+Shell Recharge Old Madras Road,12.9923,77.65942,Karnataka,Bengaluru,120.0
+Shell Recharge TC Palya,13.02234,77.67867,Karnataka,Bengaluru,120.0
+Shell Recharge Thanisandra,13.05367,77.63073,Karnataka,Bengaluru,120.0
+Shell Recharge Hennur,13.07536,77.6524,Karnataka,Bengaluru,120.0
+Shell Recharge Kogilu Road,13.1043,77.60448,Karnataka,Bengaluru,120.0
+Shell Yelahanka New Town,13.098,77.5658,Karnataka,Bengaluru,120.0
+Wonderla Bengaluru,12.838006,77.402104,Karnataka,Bengaluru,60.0
+Metropolis Gurukrupa Apartment,12.87479,77.64694,Karnataka,Bengaluru,7.4
+Bolt.Earth Charging Station,12.48172,77.03598,Karnataka,Bharathi Nagara,30.0
+Eagleton The Golf Resort,12.80007,77.41324,Karnataka,Bidadi,60.0
+Hotel Shivani,23.96396396396412,76.93830402560593,Madhya Pradesh,Biora,60.0
+Rest Area Jio BP  RHS,26.378544178688983,76.25327630896135,Rajasthan,Bonli,60.0
+DME Bonli Jio BP LHS,26.377358016679597,76.25375666945047,Rajasthan,Bonli,60.0
+Hotel Varun Mansion ,13.00219031804562,76.13960172358225,Karnataka,Boovanahalli,60.0
+S.G. Enterprises BPCL,13.85362,74.6304,Karnataka,Byndoor,30.0
+Orion Plaza EVCS - GO EC,8.863426989733298,76.87120784,Kerala,Chadayamangalam,60.0
+Nisarga Family Restaurant,14.55971,75.72506,Karnataka,Chalageri,120.0
+Irrai EVCS | Chalakka,10.155044701593752,76.28093391543848,Kerala,Chalakka,30.0
+Indian Coffee House (EVOK) - ChargeMOD,10.28934329936537,76.33706820135649,Kerala,Chalakkudy,30.0
+Clay House Hotel,10.285574229385333,76.34237765373388,Kerala,Chalakkudy,30.0
+Flash Charge EVCS - ChargeMOD,10.339608926521834,76.32174630594778,Kerala,Chalakudy,60.0
+Edassery Samrudhi Hypermarket (EVOK) - ChargeMOD,10.30310177272014,76.33704224327056,Kerala,Chalakudy,30.0
+Iongrid | Thuruthy,9.473794270373643,76.52851437737809,Kerala,Changanasseri,90.0
+EQ Charis EVCS | Cheeranchira,9.478424884249108,76.56147986042515,Kerala,Changanassery,30.0
+160kW GREEN ENERGY EV CHARGING STATION,9.437442172035318,76.54200920369158,Kerala,Changanassery,160.0
+Changanassery Immaculate Mary EVCS,9.459860217939864,76.55518358905402,Kerala,Changanassery,25.0
+JJ E Fills - ChargeMOD,9.452250326,76.54723889833599,Kerala,Changanassery,60.0
+Kanthari Restaurants,9.455165469662148,76.54242382238897,Kerala,Changanassery,24.0
+Sihla Energy EVCS - ChargeMOD,10.734551963997376,76.04864669,Kerala,Changaramkulam,60.0
+Kadharkkante Chayakkada - ChargeMOD,10.732605539222304,76.03743007303854,Kerala,Changaramkulam,30.0
+Shivalli Restaurant 1,12.63923,77.14021,Karnataka,Channapatna,80.0
+Vintage Retreat Resort,17.79618,77.42225,Karnataka,Chatnalli,30.0
+Panamthodil Bakers | Chavara,8.983229974793687,76.53477039800418,Kerala,Chavara,90.0
+Surya Hotel (EVOK) - ChargeMOD,10.431569255270972,76.14255951064098,Kerala,Chazhoor,30.0
+Apco Hyundai - ChargeZone,12.508914881020132,75.04478426,Kerala,Chengala,30.0
+Quik Energy EVCS - GO EC,9.311533026822984,76.62272052601361,Kerala,Chengannur,60.0
+Amrutham Auto Care EVCS - GO EC,9.342144722861462,76.59848783947041,Kerala,Chengannur,30.0
+Green Plug EVCS - ChargeMOD,9.271844657077722,76.65508788685014,Kerala,Chengannur,30.0
+PTC Arcade - ChargeMOD,9.3012934024366,76.63077878361094,Kerala,Chengannur,90.0
+Etron Energies,13.07148,80.11256,Tamil Nadu,Chennai,30.0
+SRM Institute of science and technology,12.919046997353462,80.28298608,Tamil Nadu,Chennai,1000000.0
+Club Mahindra Resort - Cherai Beach,10.137093999810617,76.18028952544324,Kerala,Cherai,22.0
+Adithya Shree EVCS | Ponnamveli,9.743231981,76.31942862417168,Kerala,Cherthala,30.0
+Huts Restaurant EVCS - GO EC,9.683890802446342,76.33358219,Kerala,Cherthala,60.0
+ANERT EESL - Autokast ,9.63370013,76.33372244690435,Kerala,Cherthala,60.0
+AR Dine - GO EC,10.750381972119513,76.27475659553528,Kerala,Cheruthuruthi,25.0
+Ammas Fast - ChargeMOD,12.22720022514642,75.15911993928029,Kerala,Cheruvathur,60.0
+VKJ | Flash Charge EVCS | Chettuva,10.521423220390917,76.05127900964453,Kerala,Chettuva,60.0
+Hotel Empire ChargeZone,20.740672958672647,73.0356012,Gujarat,Chikhli,60.0
+Jio-BP Petrol Pump,16.19321,74.518,Karnataka,Chikkalagudda,60.0
+The Grand Krishna Hotel,13.32784,75.77365,Karnataka,Chikkamagaluru,7.0
+Hotel Aadrika,13.31755,75.77101,Karnataka,Chikkamagaluru,60.0
+Bishop Jerome Nagar (EVOK) EVCS - ChargeMOD,8.887577413782594,76.58843660568147,Kerala,Chinnakkada,60.0
+Bharat Petroleum e-charge station,10.2998,77.9413,Tamil Nadu,Chinnalapatti,30.0
+Adyar Ananda Bhavan,12.63869,78.06529,Tamil Nadu,Chinnar,120.0
+Chirakkal Bank EVCS,11.91670441912386,75.35830443320492,Kerala,Chirakkal,30.0
+Hotel Guruprasad Veg,14.17052,76.47221,Karnataka,Chitradurga,120.0
+Tata.ev Gokulam Motors - Tata Power,10.081302790405845,76.33946199404113,Kerala,Choornikkara,60.0
+Sulfex Mattress (EVOK) - ChargeMOD,10.081559652703303,76.33986741548819,Kerala,Choornikkara,30.0
+Brunton Boatyard,9.968304525407731,76.24570948393551,Kerala,Cochin,24.0
+ev,11.046407561050373,77.07956128281876,Tamil Nadu,Coimbatore,30.0
+Sundaram Motors Coimbatore,10.91863,76.98461,Tamil Nadu,Coimbatore,45.0
+Hotel Sri Mu Saravana Bhavan,11.00142,77.06625,Tamil Nadu,Coimbatore,25.0
+IOCL Singanallur,11.0028,77.03874,Tamil Nadu,Coimbatore,30.0
+PPS MG Motors,11.05013,77.05773,Tamil Nadu,Coimbatore,25.0
+Fairfield by Marriott Coimbatore,11.03623,77.03736,Tamil Nadu,Coimbatore,30.0
+Zibe Coimbatore by GRT Hotels,11.02287,76.99726,Tamil Nadu,Coimbatore,7.4
+3 Star Auto Care,11.01434,76.98979,Tamil Nadu,Coimbatore,30.0
+Ibis Coimbatore City Centre,11.01223,76.98654,Tamil Nadu,Coimbatore,15.0
+Zone by The Park Hotel,11.01157,76.98444,Tamil Nadu,Coimbatore,30.0
+Taj Vivanta Coimbatore,11.0025,76.97363,Tamil Nadu,Coimbatore,30.0
+"Welcomhotel By ITC Hotels, Race Course, Coimbatore",10.99713,76.97389,Tamil Nadu,Coimbatore,60.0
+VEEV Brookfields,11.00939,76.95905,Tamil Nadu,Coimbatore,30.0
+Corporation Parking Lot,11.01695,76.96566,Tamil Nadu,Coimbatore,50.0
+PSV EV Point,11.08231,76.98681,Tamil Nadu,Coimbatore,30.0
+Gateway Coonoor,11.34605,76.80108,Tamil Nadu,Coonoo,30.0
+Avantika Resort EV Cosmos,22.81045961560405,74.30068522366184,Gujarat,Dahod,60.0
+Village Vatika Restaurant And Hotel,21.885670593234643,77.88399107096022,Madhya Pradesh,Danora,60.0
+Raastha Resto Bar,14.44452,75.89139,Karnataka,Davanagere,60.0
+Kahaani - The Food Journey,14.44549,75.8911,Karnataka,Davanagere,60.0
+Mahindra Mahanth Motors,14.47385,75.88627,Karnataka,Davanagere,60.0
+Adishakti Cars,14.44223,75.95212,Karnataka,Davanagere,25.0
+Azadpur Metro Station,28.706611759021957,77.18210759629983,Delhi,Delhi,60.0
+JW Marriott Bengaluru Prestige Golfshire Resort & Spa,13.31205,77.69087,Karnataka,Devanahall,30.0
+Shell Recharge Devanahalli,13.24117,77.70313,Karnataka,Devanahalli,120.0
+Shell Recharge Gokare Road,13.23897,77.72394,Karnataka,Devanahalli,120.0
+Mulberry Shades Bengaluru Nandi Hills,13.34843,77.68211,Karnataka,Devanahally,30.0
+FC - TataPower - Hotel Sumandeep,23.765173283966945,86.80574019219654,Jharkhand,Dhanbad,30.0
+Hotel Topline,20.836967977911712,74.75561014858295,Maharashtra,Dhule,60.0
+Sri Sai Kanchetty Family Restaurant,18.63217083834048,78.20817022692324,Telangana,Dichpally,60.0
+Hotel PVK Grand,10.3741,77.96772,Tamil Nadu,Dindigul,25.0
+Vel Saravana bhavan,10.386,77.96756,Tamil Nadu,Dindigul,60.0
+"Kaveri Garage, Seelapadi",10.38031,77.99536,Tamil Nadu,Dindugal,60.0
+Green Garden Family Restaurant,24.01218982574672,86.03378565807299,Jharkhand,Dumri,25.0
+Daffodils EVCS - GO EC,10.032114506603731,76.32296046331254,Kerala,Edapally,30.0
+Oberon Mall EVCS - GO EC,10.014373315870898,76.31253274186469,Kerala,Edapally,60.0
+Lulu International Shopping Mall EVCS - GO EC,10.025852998355106,76.30847987689594,Kerala,Edapally,60.0
+Unicorn Power EVCS - GO EC,10.8099466362483,76.00873437017219,Kerala,Edappal,30.0
+Emirates Mall - Zeon,10.786020507719895,76.00816181964399,Kerala,Edappal,24.0
+Grand Mall,10.024160422636712,76.30871193061643,Kerala,Edappalli,60.0
+Gokul Oottupura Restaurant,10.011144817352246,76.31249740510384,Kerala,Edappalli,50.0
+TML Sree Gokulam Motors - Tata Power,10.03915496555662,76.31555880759106,Kerala,Edappally,30.0
+Flash Charge - ChargeMOD,10.02776086032486,76.31117443905742,Kerala,Edappally,30.0
+Tata.ev Luxon Motors - Tata Power,10.011484735873452,76.31138749922593,Kerala,Edappally,60.0
+Iongrid EV Spark - ChargeMOD,9.367525880261468,76.49951805750726,Kerala,Edathwa,30.0
+One Stop Automotive Cahrging Station - Tata Power,11.204146203983242,76.13673353482534,Kerala,Edavanna,60.0
+Bisluck Energy EVCS | Vattaparamba,11.16434134008496,75.96400736946612,Kerala,Edavannappara,60.0
+Trends Edavannappara EVCS - ChargeMOD,11.24532314543434,75.97749174887804,Kerala,Edavannappara,30.0
+Palakkad Ahalia Women and Childern Hospital EVCS - GO EC,10.797308592491405,76.82754081494369,Kerala,Elappully,7.4
+Palakkad Ahalia Eye Hospital EVCS - GO EC,10.79348727039229,76.82652950538215,Kerala,Elappully,7.4
+Palakkad Ahalia Food Point EVCS - GO EC,10.792032259171831,76.82834711933714,Kerala,Elappully,7.4
+Hotel Bhavan EVCS (EVOK) - ChargeMOD,10.49768853180406,76.06464225925947,Kerala,Engandiyoor,30.0
+IOCL Engapuzha Fuel - Tata Power,11.465050129739268,75.97017469880149,Kerala,Engapuzha,25.0
+Palm Peats (EVOK) - ChargeMOD,9.69067896839472,76.77458973,Kerala,Erattupetta,30.0
+EC City Centre EVCS - GO EC,9.965194492,76.29662321090922,Kerala,Ernakulam,25.0
+ANERT EESL - Ernakulam,9.976988501,76.27781052,Kerala,Ernakulam,60.0
+Le Meridien - ChargeZone,9.933863177376937,76.31687406,Kerala,Ernakulam,30.0
+MB#Coastal Star - ChargeZone,9.922990219918262,76.31768924611822,Kerala,Ernakulam,90.0
+"Milky Mist Cafe, Erode Sathy Highway",11.3998,77.62536,Tamil Nadu,Erode,50.0
+Texvalley,11.37172,77.64731,Tamil Nadu,Erode,60.0
+Victory Tata,11.31239,77.66505,Tamil Nadu,Erode,24.0
+Qwik Volt EVCS | Kothanalloor,9.718846765722049,76.52517369004113,Kerala,Ettumanoor,90.0
+Ettumanur Skylight EVCS - GO EC,9.668171829463477,76.57537881809179,Kerala,Ettumanoor,60.0
+Alpha Hangout Play World,9.66116385221578,76.55132832762774,Kerala,Ettumanoor,60.0
+Indus Motors - ChargeMOD,11.180743762022216,75.85119863600679,Kerala,Feroke,30.0
+Mansavi SuperCharge Point,28.455186365944098,77.50358521,Uttar Pradesh,G B Nagar,30.0
+KR RESORT,29.88678759214764,73.92823039326373,Rajasthan,Ganganagar,30.0
+DME Garoth Rest Area RHS,24.345261626028037,75.67832329584303,Madhya Pradesh,Garoth,60.0
+Volttic Delhi Mumbai Expressway LHS Garoth,24.346875612361345,75.68155965704818,Madhya Pradesh,Garoth,60.0
+Mahalaxmi EV Charging STATION,28.54753,77.44491,Uttar Pradesh,Gautaum Buddha Nagar,9.0
+Arthigamaya Spa & Resort,14.52576,74.31716,Karnataka,Gokarna,7.0
+Sasthapuri Hotels,11.49862,76.49398,Tamil Nadu,Gudalur,30.0
+Shell Recharge Mandakalli,12.24523,76.65978,Karnataka,Gudumadanahalli,60.0
+Green Mountain Resort,24.54054054054054,77.20867783566665,Madhya Pradesh,Guna,60.0
+Dhanyalakshmi Fuels BPCL,11.84679,76.67291,Karnataka,Gundlupete,30.0
+Sree Krishna Hotel - GO EC,10.598447823364936,76.03636788702198,Kerala,Guruvayoor,3.3
+Hotel Gokulam Sabari - Tata Power,10.596356977075132,76.04293443,Kerala,Guruvayur,25.0
+Hotel Devaragam,10.595622580626454,76.04459842650351,Kerala,Guruvayur,24.0
+Jio-BP Mobility Station PD Halli,15.14327,77.0632,Karnataka,Hagari,60.0
+Home,26.6975,91.8512,Assam,Hailakandi,24.0
+Shree Bihariji Filling Station,29.176436522821103,79.49640945838406,Uttarakhand,Haldwani,30.0
+BPCL Royal Fuel Station,29.22417745217187,79.50104336869471,Uttarakhand,Haldwani,30.0
+Fortune Walkway Mall,29.245389718988378,79.53597170568463,Uttarakhand,Haldwani,60.0
+Bikanerwala Sweets Haldwani (Aargo),29.214919408875087,79.52798465647824,Uttarakhand,Haldwani,24.0
+Bharat Petroleum - Janta Petrol Pump,29.18654205912064,79.52084262648205,Uttarakhand,Haldwani,0.0
+Tata Power - Electric Vehicle Charging Station,29.163755,79.522706,Uttarakhand,Haldwani,25.0
+Ghar Ka Khana,13.24891,77.22395,Karnataka,Hale Nijagal,60.0
+Shiva Hotel,14.53811,75.75962,Karnataka,Harihar,60.0
+V Volte EVCS - GO EC,9.289000834095232,76.45653569251749,Kerala,Haripad,25.0
+Manikanta Filling Centre BPCL,12.6915,77.47631,Karnataka,Harohalli,30.0
+Krupa Motors & Fuels,13.45598,74.98411,Karnataka,Hebri,30.0
+Vithal Kamats,20.574439036798253,78.88230401794569,Maharashtra,Hinganghat,30.0
+Purohit Hotel,14.0521,76.56153,Karnataka,Hiriyur,60.0
+Dakshin Motors - TATA Service Center,13.92317,76.64257,Karnataka,Hiriyur Rural,25.0
+Hotel Lavender Elite,14.3166,74.42836,Karnataka,Honnavar,7.0
+Shreekumar Residency,14.32599,74.42664,Karnataka,Honnavar,60.0
+Royal Orchid Central Kireeti,15.28683,76.38577,Karnataka,Hosapete,60.0
+Periya A Star - GO EC,12.40580531032613,75.09629760947794,Kerala,Hosdurg,30.0
+Siri Motors,12.71462,77.88475,Tamil Nadu,Hosur,60.0
+True Sai Tata,12.71741,77.87594,Tamil Nadu,Hosur,25.0
+"Hotel Hills, Hosur",12.75413,77.80406,Tamil Nadu,Hosur,30.0
+MG Motor Bellad,15.40827,75.06133,Karnataka,Hubballi,25.0
+Salimath Engineers,15.35533,75.08915,Karnataka,Hubballi,25.0
+Shreya Stellar Mall,15.3593,75.12727,Karnataka,Hubballi,60.0
+Shell Recharge Pale,15.240056,75.14345,Karnataka,Hubballi,120.0
+Sai Ganesh Restaurant,15.27878,75.14759,Karnataka,Hubli,150.0
+Hotel Anand Vihar,14.62398,76.46012,Karnataka,Hulikere,60.0
+Hotel BHP-6,17.7726,77.11402,Karnataka,Humnabad,60.0
+MR Residency,16.053005252157334,76.06577132405101,Karnataka,Hungund,60.0
+"Anand Nagar, Hyderabad",17.0,78.56117774292846,Telangana,Hyderabad,80.0
+EVee Buddy | Everest Hotel | Idukki,9.847466205348368,76.98095644,Kerala,Idukki,30.0
+GO EC Charging Station,9.665398819574932,77.16084695044691,Kerala,Idukki,30.0
+ANERT EESL - DTPC Idukki Park,9.849056508967635,76.97740370583625,Kerala,Idukki,60.0
+GreenVeel - ChargeZone,9.892659539885386,76.71176413963099,Kerala,Idukki,90.0
+Jio BP Mobility Station,15.99107,76.10002,Karnataka,Ilkal,60.0
+Vrindavan EVCS - GO EC,9.045128433314076,76.77360003943176,Kerala,Inchakkad,60.0
+Irinjalakkuda KSEB EVCS - ChargeMOD,10.331423098125155,76.21526077419406,Kerala,Irinjalakkuda,30.0
+KVR Dream Vehicles Service Centre - Tata Power,11.990685920762218,75.65802183107732,Kerala,Iritty,30.0
+Sky Penta EVCS - ChargeMOD,11.98556152906157,75.67618166036556,Kerala,Iritty,30.0
+Hotel Aroma Natural Veg,13.8506,76.73702,Karnataka,Javagondnahalli,60.0
+LAVATO - A Premium Lounge,12.57339,78.16922,Tamil Nadu,Junjupalli,30.0
+Prithvi EVCS - GO EC,9.947451633,76.30341556,Kerala,Kadavanthra,60.0
+Park Residency EVCS - GO EC,10.0146588090696,76.34240059520744,Kerala,Kakkanad,25.0
+Hound Mobility EVCS | Kakkanad,10.001801810427551,76.36151799279622,Kerala,Kakkanad,60.0
+Aashirwaad Mangal Karyalay,17.32724988186756,76.86779955,Karnataka,Kalaburagi,60.0
+Sri Nisty Pvt,17.27460609347787,76.87407369,Karnataka,Kalaburgi,30.0
+Steelane (EVOK) - ChargeMOD,10.040433868452538,76.33852407332273,Kerala,Kalamassery,30.0
+Kalamassery KSEB EVCS - ChargeMOD,10.053770034128178,76.33086763254079,Kerala,Kalamassery,30.0
+Rajagiri College EVCS - ChargeMOD,10.052459248046604,76.31465630080953,Kerala,Kalamassery,30.0
+"Adyar Ananda Bhavan, Kallakurichi",11.71086,78.94797,Tamil Nadu,Kallakurichi,60.0
+New Indraprastha (EVOK) EVCS,8.792020363373027,76.77063200499896,Kerala,Kallambalam,30.0
+Kaloor KSEB EVCS - ChargeMOD,10.000241036861423,76.29842982467909,Kerala,Kaloor,30.0
+TML Marina Motors Pvt. Ltd. Kalpetta - Tata Power,11.637352766290704,76.09468538005217,Kerala,Kalpetta,30.0
+Cafe Manoila - GO EC,11.597776607258112,76.08013836547212,Kerala,Kalpetta,25.0
+Konfudha Resort - ChargeMOD,11.591455451778742,76.07090978,Kerala,Kalpetta,30.0
+Great Trails Wayanad by GRT Hotels,11.630455838998556,76.01814584,Kerala,Kalpetta,22.0
+Nesto Hypermarket - Zeon,11.603113725229337,76.08314903993465,Kerala,Kalpetta,24.0
+FC - JioBP - The Bengal Dhaba,22.922668495049702,88.45628433804325,West Bengal,Kalyani,60.0
+JetEV Nest Developers | Kambalakkad,11.66781267,76.07946996948226,Kerala,Kamabalakkad,30.0
+Jio BP Hosur,12.68784,77.92684,Tamil Nadu,Kamandoddi,30.0
+Key Motors,12.57449,77.42937,Karnataka,Kanakapura,25.0
+Kanhangad KSEB EVCS - ChangeMOD,12.34250549258168,75.11266367140311,Kerala,Kanhangad,30.0
+Raj Residency - Zeon,12.304241742478752,75.09704178085582,Kerala,Kanhangad,50.0
+EVMOD EVCS | Pudussery,10.796990864937015,76.76440925644602,Kerala,Kanjikode,60.0
+Vijaya EVCS - GO EC,9.851840438387285,76.38938787,Kerala,Kanjiramattom,30.0
+Mandrin Sky - GO EC,11.927559724028896,75.50047314663138,Kerala,Kannur,7.0
+G Mall - GO EC,11.88020074722374,75.37466479,Kerala,Kannur,60.0
+Manjapalam KSEB EVCS - ChargeMOD,11.878368279471404,75.35952615318283,Kerala,Kannur,30.0
+ANERT EESL - Pinarayi Park,11.795232100785311,75.49021889997948,Kerala,Kannur,60.0
+Koodali SCB,11.927016595657648,75.50042206155453,Kerala,Kannur,30.0
+Tata.ev KVR Dreams Kannur - Tata Power,11.860830340847158,75.41186777793837,Kerala,Kannur,30.0
+AVS Imperiaa,10.93799,79.8224,Puducherry,Karaikal,24.0
+Hotel Malar,10.07009,78.76079,Tamil Nadu,Karaikudi,30.0
+Karthika Residency Hotel EVCS - GO EC,8.728845866034803,76.89844751364274,Kerala,Karette,80.0
+KKP Renewables EVCS - GO EC,8.734523377793522,76.89801647227131,Kerala,Karette,30.0
+EQ EV Nest - ChargeMOD,9.863113531376897,76.69709052,Kerala,Karimkunnam,30.0
+Relax Point Restaurant,10.922820413293309,76.03291841407719,Kerala,Karippol,30.0
+Luxon Motors - Tata Power,10.162042049613518,76.36735603462671,Kerala,Kariyad,30.0
+Karulai Malayora Express EVCS - GO EC,11.288049483016962,76.29798171,Kerala,Karulai,30.0
+Best EVCS | Karunagappalli,9.046108945574415,76.53668394,Kerala,Karunagapally,30.0
+Throw In Foodcourt | Karunagappalli,9.067236462385123,76.53588535115716,Kerala,Karunagappalli,30.0
+Zufo EVCS,9.132307411349302,76.51385828713245,Kerala,Karunagappalli,25.0
+Hotel Indraprastha - ChargeZone,9.052355042165445,76.53546081,Kerala,Karunagappalli,30.0
+Best EVCS - ChargeMOD,9.046053009129778,76.53663078070491,Kerala,Karunagappalli,30.0
+Aravai Aanandas,10.777439,77.920825,Tamil Nadu,Karur,120.0
+VSB Auto Care,10.964214297245904,78.04655560696892,Tamil Nadu,Karur,60.0
+AKR Textiles,10.963961710013322,78.04804205,Tamil Nadu,Karur,60.0
+Sri Venkateshwara Auto Fuels,10.90851,78.10009,Tamil Nadu,Karur,30.0
+Subbanna Hotel,10.95773,78.06033,Tamil Nadu,Karur,60.0
+The True Saai Works Karur,10.97867,78.06428,Tamil Nadu,Karur,30.0
+11 to 11 Family Restaurant,11.012148322555577,78.06795342843543,Tamil Nadu,Karur,25.0
+V Charge Hub - ChargeMOD,9.314250283,76.42910773148486,Kerala,Karuvatta,60.0
+Quick Charge EVCS - ChargeMOD,9.315750048885036,76.40122120264317,Kerala,Karuvatta,60.0
+Maruti Charging Station,14.847188334519174,74.13547625586537,Karnataka,Karwar,7.2
+Electro Zone EV Fast Charging Station - ChargeMOD,8.560820152303819,76.89816463865816,Kerala,Karyavattom,30.0
+TML KVR Dream Vehicles EVCS - Tata Power,12.513454412772605,75.02712293765927,Kerala,Kasaragod,30.0
+IOCL Top Fuels Karanthakkad Charging Station - Tata Power,12.509407895012473,74.98611113925955,Kerala,Kasaragod,30.0
+Roshi EVCS (EVOK) - ChargeMOD,12.505974173728816,74.98678088662848,Kerala,Kasaragod,30.0
+Co-Operqative Bank - Zeon,11.787885590422787,75.53302104514765,Kerala,Kathirur,30.0
+Flash Charge EVCS | Kattappana,9.750837650469537,77.10918575774053,Kerala,Kattappana,30.0
+Westgate Inn EVCS - GO EC,9.747617293321468,77.10541770305377,Kerala,Kattappana,25.0
+Sparkzone EVCS - GO EC,9.145794596,76.45936322492247,Kerala,Kayamkulam,25.0
+Cartist - GO EC,9.184739728702354,76.49029683829167,Kerala,Kayamkulam,60.0
+ANERT EESL - KTDC Aahar Restaurant ,9.149021955063075,76.51291823,Kerala,Kayamkulam,60.0
+GDM Auditorium - ChargeZone,9.169962388825738,76.49808791886016,Kerala,Kayamkulam,30.0
+Akshaya EV Fast Charging Station - ChargeMOD,8.565300166377725,76.87444738407987,Kerala,Kazhakuttom,30.0
+Executive EVCS - ChargeMOD,10.6166265863953,76.12578392344301,Kerala,Kechery,60.0
+M K Agencies,12.27429,78.197,Tamil Nadu,Kerakodahalli,60.0
+Khajuraho Airport,24.81017906223033,79.91151232004376,Madhya Pradesh,Khajuraho,60.0
+Hotel Bundela,24.84121799833644,79.92095530109164,Madhya Pradesh,Khajuraho,30.0
+FC - Jio-BP - Khardaha,22.70657211558681,88.37434853401237,West Bengal,Khardaha,60.0
+Sagar Tranport Company,28.93121649453341,79.51703689220533,Uttarakhand,Kichha,60.0
+Yash Filling Station,28.870833636540105,79.51648005148428,Uttarakhand,Kichha,60.0
+2012531-PRAKASH PETROLEUM,28.89269395171297,79.50956370102392,Uttarakhand,Kichha,30.0
+Nila's Magestic Arcade,9.683248151452077,76.60975356992105,Kerala,Kidangoor,30.0
+Vazhiyorakkada Hotel,8.785763001571354,76.88370044,Kerala,Kilimamoor,30.0
+Core Multicusine Restaurant - ChargeMOD,10.605823669307211,76.21178763460574,Kerala,Killannur,30.0
+Hotel Gajaraj Palace,15.58799,74.78388,Karnataka,Kittur,30.0
+SK EVCS | Kizhakkambalam,10.03664588942094,76.41843031999929,Kerala,Kizhakkambalam,60.0
+Matha DC EVCS - ChargeMOD,10.031936931279205,76.40749252320211,Kerala,Kizhakkambalam,30.0
+EVM MG Motors Coastline Garage - ChargeMOD,10.077284480624044,76.33764123,Kerala,Kochi,60.0
+Gandhinagar KSEB EVCS - ChargeMOD,9.974192529648036,76.29368170309505,Kerala,Kochi,30.0
+Kochi Marriot Hotel,10.029828147933712,76.30813431285094,Kerala,Kochi,30.0
+Casino Hotel,9.961431244,76.26949095249614,Kerala,Kochi,22.0
+BMW EVM Autokraft Service Center - ChargeMOD,8.502329327755106,76.89772557160751,Kerala,Kochuveli,24.0
+EV Point EVCS - ChargeMOD,10.380660869345943,76.29768618030681,Kerala,Kodakara,60.0
+Centro Mall Charging Station - Tata Power,10.232489483292568,76.19594022414185,Kerala,Kodungallur,30.0
+Kodungallur SVS - GO EC,10.21129204884221,76.19898867,Kerala,Kodungallur,25.0
+FUZO EV Super Charging Station,10.378135160727652,76.12254539101707,Kerala,Kodungallur,60.0
+Mughal Mall,10.2313190200411,76.19724309794333,Kerala,Kodungallur,60.0
+Nandanam EVCS - GO EC,9.567074729,76.70609404363415,Kerala,Kodungoor,30.0
+Locus EVCS - ChargeMOD,11.339683842558289,75.89871568981823,Kerala,Koduvally,120.0
+"Aaradhya Grand ""Mulbagal Dosa""",13.13522,78.18786,Karnataka,Kolar,60.0
+EVee Buddy | Mangalath EVCS | Mangalathunada,10.016772858051835,76.50315706545018,Kerala,Kolenchery,30.0
+Konnagar,21.65144351225736,87.65139955261463,West Bengal,Kolkata,0.0
+FC - Tata Power - Taj Raajkutir,22.573505558470004,88.40230025526728,West Bengal,Kolkata,30.0
+M Square EVOK | Kureepuzha,8.921314624972311,76.57636971126544,Kerala,Kollam,50.0
+Sree Suprabhatham - ChargeMOD,8.926969524448452,76.55280314933964,Kerala,Kollam,60.0
+VOX Xpress Wash (EVOK) - ChargeMOD,8.873868016,76.64100893106445,Kerala,Kollam,30.0
+Instacharge EV Fast Charging and Cafe - ChargeZone,8.915427160815128,76.61486886765476,Kerala,Kollam,30.0
+Chungath Sprise Hyundai - ChargeZone,8.911104862076982,76.62735315845515,Kerala,Kollam,30.0
+Pooyappalli Service Co-Operative Bank Ltd,8.898682096,76.74213825011032,Kerala,Kollam,30.0
+Shepra Farms,12.13427,77.07437,Karnataka,Kollegala,60.0
+Jyothis Residency,13.86534,74.81452,Karnataka,Kollur,7.0
+Calicut Airport Charging Station - Tata Power,11.140292270314331,75.94831371133864,Kerala,Kondotty,60.0
+Anaswara Jewellers EVCS - ChargeMOD,9.229128424494249,76.84839128111668,Kerala,Konni,30.0
+Koottanad KSEB EVCS - ChargeMOD,10.75829320199584,76.13036645434084,Kerala,Kootanad,60.0
+Royal EV Charging - ChargeMOD,9.856562504416218,76.59656979753362,Kerala,Koothattukulam,30.0
+Swathi Delicacy,12.99504,76.89999,Karnataka,Koppa,120.0
+KVR Automotive - Tata Power,10.782258203557744,76.65824510709217,Kerala,Koppam,30.0
+Syndicate Mall and Cinemas,10.878265919428571,76.18760662,Kerala,Koppam,30.0
+Koratty Chennai Anandabhavan EVCS - GO EC,10.277244588754584,76.34452807905916,Kerala,Koratty,60.0
+Lakshya Water Park,25.162225667133868,76.16636008,Rajasthan,Kota District,30.0
+Annalakshmi Drive in,11.42336,76.86669,Tamil Nadu,Kotagiri,15.0
+ Lakshmi Retreat,11.42998,76.86711,Tamil Nadu,Kotagiri,7.4
+Renvolt (EVOK) - ChargeMOD,10.069470074742668,76.60263007017147,Kerala,Kothamangalam,60.0
+Kothamangalam KSEB EVCS - ChargeMOD,10.053980539499676,76.61538420232228,Kerala,Kothamangalam,30.0
+Thirunilath ECVS Charging Station - ChargeMOD,11.001726591966232,75.98044942341241,Kerala,Kottakkal,60.0
+Club Sulaimani - Zeon,10.983867426675817,75.99802950416446,Kerala,Kottakkal,24.0
+Green Planet EVCS - GO EC,8.982143340998263,76.80932966421278,Kerala,Kottarakkara,30.0
+Delight Launch Cafe - ChargeMOD,9.059350297189397,76.76600396907929,Kerala,Kottarakkara,30.0
+Ente Veedu Interior (EVOK) - ChargeMOD,9.030351870410756,76.78219777246784,Kerala,Kottarakkara,30.0
+Plug N Pay EVCS,8.935694034983442,76.85104921051595,Kerala,Kottarakkara,30.0
+Hotel Athira Residency EVCS - GO EC,9.578258767585766,76.51947056358193,Kerala,Kottayam,80.0
+Indraprastha Hotel (EVOK) - ChargeMOD,9.601836959255364,76.53215901,Kerala,Kottayam,30.0
+Charge n Fresh EVCS - ChargeMOD,9.5862574882092,76.58841522125499,Kerala,Kottayam,30.0
+Athirampuzha - ChargeZone,9.661688305606717,76.55113745755165,Kerala,Kottayam,30.0
+Hotel Aida,9.582880475673022,76.52168622035634,Kerala,Kottayam,50.0
+The Windsor Castle Hotel,9.571548200477338,76.51936940989242,Kerala,Kottayam,24.0
+The Grand Ambassador EVCS,9.589399335956784,76.52633053455003,Kerala,Kottayam,30.0
+Kottiyam KSEB EVCS - ChargeMOD,8.866370095144688,76.66887781466477,Kerala,Kottiyam,30.0
+N and N Station,8.864731077119629,76.66048322159958,Kerala,Kottiyam,30.0
+Solar Sparks EVCS - ChargeMOD,11.427675411349242,75.70299624247721,Kerala,Koyilandi,30.0
+EVM Citroen Calicut,11.30428542732038,75.75957892280337,Kerala,Kozhikode,30.0
+Shakti | EVOK Charging Hub,11.257841246701844,75.81018791903341,Kerala,Kozhikode,90.0
+TML Marina Motors - Tata Power,11.216965265185236,75.85795106094037,Kerala,Kozhikode,25.0
+IOCL Lakshmi Sales & Service - Tata Power,11.233626863224842,75.80323852757283,Kerala,Kozhikode,30.0
+Gokulam Galleria Mall - Tata Power,11.2584651335099,75.79290611849729,Kerala,Kozhikode,25.0
+Hotel Hyson Heritage - Tata Power,11.259214498820045,75.77933452309298,Kerala,Kozhikode,25.0
+Taj The Gateway Hotel - Tata Power,11.25868982319139,75.77397870788238,Kerala,Kozhikode,30.0
+Reliance Fresh EVCS - GO EC,11.23473742288897,75.84670658837746,Kerala,Kozhikode,60.0
+Green Amp EVCS - GO EC,11.25880102317666,75.80890434709403,Kerala,Kozhikode,30.0
+Calicut Malabar Gold - GO EC,11.257861801274402,75.78023060486237,Kerala,Kozhikode,30.0
+Kuttoth Enterprises EVCS - ChargeMOD,11.28067356202429,75.82463167,Kerala,Kozhikode,30.0
+Gandhi Road KSEB EVCS - ChargeMOD,11.262784457971506,75.76824105215104,Kerala,Kozhikode,30.0
+Thiruvangoor EV Fast Charging Station - ChargeMOD,11.382827235535927,75.73593649657082,Kerala,Kozhikode,60.0
+MB#Bridgeway Motors - ChargeZone,11.282498947490096,75.76959949804987,Kerala,Kozhikode,30.0
+KVR Hyundai - ChargeZone,11.27997830911059,75.77048059797019,Kerala,Kozhikode,30.0
+HiLite Mall - Zeon,11.248102467880244,75.83413591969762,Kerala,Kozhikode,120.0
+HiLite Business Park - Zeon,11.24701615784167,75.83467863520764,Kerala,Kozhikode,60.0
+The True Saai Works Krishnagiri,12.53084,78.23787,Tamil Nadu,Krishnagiri,25.0
+Hotel Saravana Bhavan Classic,12.55407,78.18823,Tamil Nadu,Krishnagiri,60.0
+Hotel Saravanaa Bhava,12.57037,78.17235,Tamil Nadu,Krishnagiri,120.0
+Hotel Saravanaa Bavaa,12.589202811747697,78.14394723142271,Tamil Nadu,Krishnagiri,120.0
+Sree Saravana Bhavan Veg. Treat,12.5819,78.15707,Tamil Nadu,Krishnagiri,60.0
+Kulappully KSEB EVCS - ChargeMOD,10.779746009556462,76.28528085807898,Kerala,Kulappully,30.0
+Sora EVCS - GO EC,9.614445835422885,77.15390991011253,Kerala,Kumali,30.0
+Club Mahindra Resort - Thekkadi,9.603436669871355,77.17154785062633,Kerala,Kumali,22.0
+Sihla Energy - ChargeMOD,9.594581375188383,76.42606941926459,Kerala,Kumarakom,30.0
+Deol Punjabi Hotel & Lodge,14.65406,75.56992,Karnataka,Kunabev,30.0
+Flash EVCS | Kundannoor,9.938719980937565,76.31830915617024,Kerala,Kundannoor,30.0
+RK EVCS - GO EC,8.948246626469512,76.64624714068498,Kerala,Kundara,30.0
+Kundara KSEB - ChargeMOD,8.957185858,76.67133653462605,Kerala,Kundara,30.0
+Yadav EV Charging Station - ChargeMOD,11.311692154537,75.88259339920793,Kerala,Kunnamangalam,60.0
+K4 EV Fast Charging Station,10.705220458256877,76.0892676,Kerala,Kunnamkulam,60.0
+"Baboos Triangle, Zeon Charging Station",10.719479255348858,76.07748035368672,Kerala,Kunnamkulam,120.0
+Pontoor EVCS | Fill Nxt | Kunnicode,9.026472181320996,76.85190109,Kerala,Kunnicode,30.0
+Dhruv EVCS - ChargeMOD,10.154913045890254,76.28601444774222,Kerala,Kunnukara,30.0
+Chaithanya Hospital EVCS - GO EC,9.761923840599692,76.56472253025936,Kerala,Kuravilangad,25.0
+Zap N Go,9.417910830761286,76.48764655959417,Kerala,Kuttanadu,60.0
+Open Kitchen EVCS - GO EC,9.580204298452545,76.97061172783384,Kerala,Kuttikkanam,60.0
+EVOK Charger - ChargeMOD,11.648901043860448,75.75593648237526,Kerala,Kuttiyady,30.0
+CGH Wayanad Wild EV Charging Station - GO EC,11.518344247894746,76.02125570474698,Kerala,Lakkidi,30.0
+Evee Buddy - ChargeMOD,10.778142494678946,76.43743038448139,Kerala,Lakkidi,60.0
+Tata Power Hotel Elite,26.838270570472844,80.85377711286401,Uttar Pradesh,Lucknow,30.0
+GLIDA JANESHWAR MISHRA PARK ,26.837999215582457,80.98672704173009,Uttar Pradesh,Lucknow,1200.0
+GLIDA LOHIA PARK,26.85721068820618,80.98223515437166,Uttar Pradesh,Lucknow,120.0
+Club Mahindra Madikeri,12.440927112565277,75.71641034319009,Karnataka,Madikeri,22.0
+Jacks Charging Station,9.84301,78.10406,Tamil Nadu,Madurai,30.0
+Jasmine Filling Station,9.84111,78.10481,Tamil Nadu,Madurai,30.0
+"Amika Hotel, Madurai",9.86373,78.12427,Tamil Nadu,Madurai,30.0
+Ever Power Charging Station,9.9017,78.04536,Tamil Nadu,Madurai,25.0
+The Gateway Hotel Madurai,9.89713,78.08755,Tamil Nadu,Madurai,30.0
+Tucker Motors Private Limited,9.91161,78.09279,Tamil Nadu,Madurai,30.0
+Velammal Hospital and Medical College Parking - 1,9.886238411475286,78.15058162707278,Tamil Nadu,Madurai,24.0
+Grand Madurai by GRT Hotels,9.885731968730877,78.14862818711826,Tamil Nadu,Madurai,60.0
+Regency Madurai by GRT Hotels,9.904912124,78.09660199741175,Tamil Nadu,Madurai,24.0
+JC Residency Madurai,9.937168599,78.13268945175275,Tamil Nadu,Madurai,50.0
+Courtyard by Marriott Madurai,9.941091589488616,78.13946537829216,Tamil Nadu,Madurai,30.0
+"Kaveri Auto Garage, Madurai",9.96434,78.06483,Tamil Nadu,Madurai,30.0
+Velammal Hospital and Medical College Parking - 2,9.886214390792745,78.15132219132656,Tamil Nadu,Madurai,30.0
+Silavattam Village,12.48148773352969,79.86252229584034,Tamil Nadu,"Madurathakam, Chengalpattu Dt",0.0
+Parekkat's EVCS - GO EC,10.24066911823239,76.27252885130724,Kerala,Mala,25.0
+Tata.ev Store Malappuram,11.052515251663408,76.07764045262866,Kerala,Malappuram,60.0
+A M Tyres Malappuram - Tata Power,11.060402531981708,76.08084415906978,Kerala,Malappuram,30.0
+Jam Joom EV Charging Station - GO EC,11.043180592356803,76.08430155752035,Kerala,Malappuram,25.0
+Chargify EV Super Charging Station ,11.07841705440245,75.90276391559283,Kerala,Malappuram,30.0
+Saravana Parottas,11.53586,78.14556,Tamil Nadu,Mallur,60.0
+JSR EVCS - GO EC,11.825802052750774,75.50895671019163,Kerala,Mambaram,30.0
+OM EV Charging,15.512047073177143,74.94282023254493,Karnataka,Mammigatti,60.0
+Tourist Hotel,16.664506543041398,75.80500547067186,Karnataka,Managuli,60.0
+BPCL Manamadurai,9.68846,78.44998,Tamil Nadu,Manamadurai,30.0
+Hotel Wayanad Square - ChargeMOD,11.796977641816383,76.00660113182988,Kerala,Mananthavady,60.0
+EQ ChargeMate | Naalumanikkattu,9.606083638734518,76.57615046762476,Kerala,Manarcadu,40.0
+Sundaram Motors Mercedes-Benz,12.86689,74.90518,Karnataka,Mangaluru,60.0
+A.R.M Kia,12.86709,74.90488,Karnataka,Mangaluru,90.0
+"Cauvery Motors, Mangalore",12.87213,74.89078,Karnataka,Mangaluru,25.0
+St Joseph Service Centre,12.8591,74.85515,Karnataka,Mangaluru,30.0
+Fiza by Nexus Mall,12.85763,74.83832,Karnataka,Mangaluru,60.0
+"Vivanta Mangalore, Old Port Road",12.86212,74.83519,Karnataka,Mangaluru,30.0
+"Auto Matrix, Bejai",12.88567,74.84352,Karnataka,Mangaluru,25.0
+Mescom Substation Bejai,12.88666,74.84176,Karnataka,Mangaluru,25.0
+Sowkar M Baba Pai & Co,12.888069564664889,74.83548432,Karnataka,Mangaluru,30.0
+MG Motor Jubilant Motors,12.92394,74.83135,Karnataka,Mangaluru,60.0
+Ginger Hotel,12.90846240767688,74.83580306975753,Karnataka,Mangaluru,30.0
+Audi Mangaluru,12.923881847417348,74.82965522,Karnataka,Mangaluru,30.0
+J B Fuel Station,12.940230312722576,74.81603967380636,Karnataka,Mangaluru,30.0
+Shell Recharge Advaith Hyundai Mangaluru,12.90145,74.84193,Karnataka,Mangaluru,60.0
+Hotel Gokulam Relax Park,11.118906106281456,76.11847374415197,Kerala,Manjeri,25.0
+VP Mall EVCS - GO EC,11.128915821482948,76.11539460586829,Kerala,Manjeri,60.0
+Krishna Enterprises - ChargeMOD,11.123033354978745,76.11586842746766,Kerala,Manjeri,30.0
+Golden Baked EVCS - ChargeMOD,11.123411072326247,76.12418516,Kerala,Manjeri,30.0
+Manjoor Beeza Clubhouse EVCS - GO EC,9.727579425560023,76.52038777302698,Kerala,Manjoor,30.0
+RK Mess & Restaurant,11.044939,78.055861,Tamil Nadu,Manmangalam,60.0
+Hotel 24,17.7392,77.3347,Karnataka,Mannaekhelli,90.0
+Oasis EV Super Charging Station,10.933556620012697,76.52721710150968,Kerala,Mannarkkad,60.0
+Avenue Plaza - ChargeMOD,10.98886452092161,76.43668850614375,Kerala,Mannarkkad,60.0
+ANERT EESL - Kanjirappuzha Garden,10.989259255628724,76.53701214,Kerala,Mannarkkad,60.0
+Turbo EV Charge Hub | Mannuthi Bypass,10.528605753564008,76.25562112844545,Kerala,Mannuthi,40.0
+EVOK Charging Hub | Mannuthy,10.539559645990693,76.25391684,Kerala,Mannuthi,30.0
+Hyundai EV Chg Stn Manor,19.67794066125505,72.90804616555647,Maharashtra,Manor,60.0
+Hotel Abode,15.94075,77.42351,Andhra Pradesh,Mantralayam,30.0
+Tribute Royale EVCS - GO EC,9.94775836,76.31854611156217,Kerala,Maradu,60.0
+BYD EVM Southcoast Service Centre - ChargeMOD,9.948134986,76.31850175922932,Kerala,Maradu,60.0
+EVM La Maison Citroen Kochi - ChargeMOD,9.940155100929148,76.31841841422022,Kerala,Maradu,30.0
+LiON EVCS - ChargeMOD,9.942225213,76.33388510471883,Kerala,Maradu,30.0
+Maranchery Bank EVCS - ChargeMOD,10.733824066652744,75.97481311884229,Kerala,Maranchery,30.0
+CGH Marari Beach,9.59603361861292,76.30277023506221,Kerala,Mararikulam,22.0
+Plugin EVCS - ChargeMOD,10.476826918091618,76.25758184965241,Kerala,Marathakkara,60.0
+Hotel Masala Suruchi,13.0595636,77.1631723,Karnataka,Marur Handpost,60.0
+Mathil Service Co-Operative Bank EVCS - ChargeMOD,12.176970146284106,75.24675579831333,Kerala,Mathil,30.0
+Askar EV - ChargeMOD,9.23250558,76.53790278235039,Kerala,Mavelikkara,25.0
+Artemis EV Super Charger - ChargeMOD,9.198881109408164,76.60017650492466,Kerala,Mavelikkara,30.0
+Mannil Green Solutions,9.283238233518844,76.53084010596456,Kerala,Mavelikkara,60.0
+Hotel Saugandhika Charging Station - Tata Power,11.65932826,76.20718522782687,Kerala,Meenangadi,60.0
+Meenangadi EVCS - ChargeMOD,11.654045695974418,76.15358523502817,Kerala,Meenangadi,60.0
+Rotana Motors Meenchanda - Tata Power,11.213908526645213,75.80263211133581,Kerala,Meenchanda,30.0
+EVOK Charging Station | Meenkunnam,9.935613467019522,76.57550196671468,Kerala,Meenkunnam,30.0
+Vana Vihar Resort Bandipur,11.70634,76.64111,Karnataka,Mel Kamanahalli,60.0
+MKM Melattur (EVOK) - ChargeMOD,11.056208090445123,76.27851203,Kerala,Melattur,30.0
+Kannur H&H,11.87166370155964,75.39598586155216,Kerala,Melechowa,30.0
+MC Resort Bandipura,11.69692,76.63576,Karnataka,Melukamanahally,60.0
+Jio BP Pulse - Mettupalayam,11.27928,76.94778,Tamil Nadu,Mettupalayam,60.0
+Hotel Bluemoon,15.02621863896637,77.62107333728825,Andhra Pradesh,Miduthuru,150.0
+Cube Stop NH-44,21.91423639914423,79.52636658703716,Madhya Pradesh,Mohgaon,120.0
+Moolamattom KSEB EVCS - ChargeMOD,9.789170222066858,76.85385688839403,Kerala,Moolamattom,30.0
+PlugMap EVCS by Evan and Eyan - ChargeMOD,9.978862993946649,76.58443995153965,Kerala,Moovattupuzha,30.0
+Kabani International (EVOK) - ChargeMOD,9.979118267964807,76.58664022612703,Kerala,Moovattupuzha,30.0
+Hotel Ganga Grand,9.981770565891791,76.57830422508846,Kerala,Moovattupuzha,60.0
+Vibrant PU College,13.05771,75.03821,Karnataka,Mudbidri,30.0
+Mall of Mukkom EVCS - GO EC,11.319727225409608,75.99551711292489,Kerala,Mukkom,60.0
+Mulki Sunder Ram Shetty Convention Centre,13.06385,74.79791,Karnataka,Mulki,60.0
+Hotel Panchavati,14.94519,75.25032,Karnataka,Munavalli,60.0
+RD Cinemas,9.544093022031731,76.87733542382585,Kerala,Mundakkayam,24.0
+"TSS Super Market, Mundagod",14.97927,75.04431,Karnataka,Mundgod,30.0
+Anchorage AC - ChargeMOD,10.51150300660646,76.22112426,Kerala,Mundupalam,30.0
+Malappuram KSEB EVCS - ChargeMOD,11.054224531620465,76.09214302066454,Kerala,Munduparamba,30.0
+Eastend Hotel and Resorts - ChargeMOD,10.087379401509637,77.06169962565411,Kerala,Munnar,30.0
+Eden Wood Resorts,10.025676321659006,77.05377106161887,Kerala,Munnar,22.0
+Top Dines Hotel - GO EC,11.67080198813612,76.36101965515473,Kerala,Muthanga,30.0
+"Welcome Heritage Ayatana, Ooty",11.33652,76.71073,Tamil Nadu,Muttinadu,22.0
+GATR PowerFin EVCS - ChargeMOD,9.979468552526953,76.55067812604801,Kerala,Muvattupuzha,30.0
+Hotel Arcore,12.352687402465657,76.62920329960255,Karnataka,Mysuru,60.0
+Manipal Hospital Mysore,12.350145879658738,76.66019890702132,Karnataka,Mysuru,60.0
+Nagalakshmi Fuel Station,12.30446,76.70639,Karnataka,Mysuru,30.0
+Adarsh Kia - Mysore,12.30706,76.70759,Karnataka,Mysuru,90.0
+The Quorum Hotel,12.31223,76.64067,Karnataka,Mysuru,7.4
+Southern Star Mysore,12.31169,76.64328,Karnataka,Mysuru,60.0
+"Urs Kar, Krishnamurthy Puram",12.29519,76.6415,Karnataka,Mysuru,25.0
+Hotel Siddharta,12.30853,76.66071,Karnataka,Mysuru,30.0
+Nexus Centre City,12.31857,76.66539,Karnataka,Mysuru,80.0
+Ganapati Fuel Station,12.35048,76.63894,Karnataka,Mysuru,24.0
+GRS Fantasy Park,12.35317,76.6357,Karnataka,Mysuru,60.0
+Akshaya Motors,12.35941,76.62151,Karnataka,Mysuru,30.0
+Shell Recharge Advaith Hyundai Mysuru ,12.34912,76.57168,Karnataka,Mysuru,60.0
+MG Motor Mysuru,12.3257,76.61038,Karnataka,Mysuru,60.0
+Shell Recharge Hinkal,12.3279,76.60826,Karnataka,Mysuru,120.0
+"Urs Cars, Hinkal",12.32742,76.60886,Karnataka,Mysuru,60.0
+"Urs Kar Service Centre Pvt Ltd, Hebbal",12.35354,76.61858,Karnataka,Mysuru,30.0
+Ibis Styles Mysuru,12.35753,76.62834,Karnataka,Mysuru,60.0
+Grand Mercure Mysore,12.3307,76.64479,Karnataka,Mysuru,120.0
+Mall Of Mysore,12.2977,76.66446,Karnataka,Mysuru,60.0
+KVR Dream Vehicle - Tata Power,11.83285672150295,75.42644169657501,Kerala,Nadal,25.0
+Shell Recharge Anekal Road,12.76356,77.70167,Karnataka,Naganaikanahalli,120.0
+"Aras Kia, Nagarai",10.0124,78.01737,Tamil Nadu,Nagari,75.0
+Jio BP Hosur - 2,12.67108,77.97997,Tamil Nadu,Nallaganakothapalli,60.0
+Coastal Grand Hotel,11.23999,78.14177,Tamil Nadu,Namakkal,30.0
+Jio-BP Namakkal,11.27967,78.16411,Tamil Nadu,Namakkal,30.0
+Nattika FIRKA Service Co-Operative Bank - ChargeMOD,10.402437782624176,76.11263307811237,Kerala,Nattika,60.0
+ Adyar Ananda Bhavan Navakkarai,10.85592,76.86251,Tamil Nadu,Navakkarai,60.0
+ Chargezone Hotel Rangoli,21.038975778372475,72.97526541,Gujarat,Navsari,60.0
+SAJ Earth Resort - Tata Power,10.162224246244604,76.3846535,Kerala,Nedumbassery,30.0
+Taj Cochin Internation Airport Hotel - Tata Power,10.159995038034909,76.39015421888632,Kerala,Nedumbassery,30.0
+ChargeMOD EVCS Hub,10.16955160052332,76.37225560702467,Kerala,Nedumbassery,60.0
+CIAL Terminal 3,10.156586379443638,76.39193156471646,Kerala,Nedumbassery,30.0
+CIAL Terminal 1,10.156867560906605,76.38897989990119,Kerala,Nedumbassery,30.0
+Capgo EVCS - ChargeMOD,10.15991448,76.38915826754294,Kerala,Nedumbassery,30.0
+Jippus Galaxy EVCS - ChargeMOD,10.161062057476386,76.38563077960612,Kerala,Nedumbassery,25.0
+Airsuite Airport Hotel,10.159295127176051,76.37852288,Kerala,Nedumbassery,30.0
+Pathalil EVCS - Charge MOD,9.506164435852696,76.65233361498815,Kerala,Nedumkunnam,30.0
+Kalladanthiyil EVCS - GO EC,9.68333688,76.50559380666749,Kerala,Neendoor,30.0
+Kavalangad Service Bank EVCS | EVOK,10.059068578217918,76.68397959284152,Kerala,Nellimattom,60.0
+Sri Manjunatha Fuel Station,12.83561,75.39953,Karnataka,Nelyadi,30.0
+Changathikoottam EVCS - ChargeMOD,10.593403340483874,76.58352519849984,Kerala,Nenmara,30.0
+EcoPlug EVCS - GO EC,10.05657909163412,76.77664747363906,Kerala,Neriyamangalam,3.3
+EESL - Devinder Collections,28.633242086746723,77.22494621242714,Delhi,New Delhi``,15.0
+Rajco EVCS - GO EC,8.394252774929768,77.08872897393405,Kerala,Neyyattinkara,30.0
+Viraj Junction EFill EVCS,16.536666790073667,74.31995764262308,Karnataka,Nh48,60.0
+New Kerala Hotel EVCS - GO EC,10.784880988938935,76.17067627366248,Kerala,Nhangattiri,30.0
+Jam Joom Super Market - GO EC,11.286680725471314,76.23926379142972,Kerala,Nilambur,25.0
+ABS Motors - GO EC,11.253647260873336,76.20190120433364,Kerala,Nilambur,30.0
+North Paravoor KSEB EVCS - ChargeMOD,10.145632978293406,76.25690380565499,Kerala,North Paravoor,30.0
+Power Zone EV Charging Station - GO EC,10.149673029849538,76.21756419275295,Kerala,North Paravur,30.0
+Royale Regency (EVOK) - ChargeMOD,9.13062559529014,76.51429714499989,Kerala,Ochira,30.0
+Plug N Pay EVCS - ChargeMOD,8.935045209787887,76.77241547653307,Kerala,Odanavattom,30.0
+Anjaly EVCS - GO EC,9.246935401622352,76.75730779092834,Kerala,Omallor,30.0
+Aasai Aasai Anandha Bhavan,11.75299,78.05057,Tamil Nadu,Omalur,120.0
+Anandha Bhavan,11.75518,78.05113,Tamil Nadu,Omalur,50.0
+Deccan Park Resort,11.39974,76.66623,Tamil Nadu,Ooty,7.4
+"Club Mahindra Resort - Derby Green, Ooty",11.4023,76.69714,Tamil Nadu,Ooty,22.0
+Sterling Ooty - Fern Hill,11.39057,76.69866,Tamil Nadu,Ooty,60.0
+Hotel Gem Park,11.42074,76.70407,Tamil Nadu,Ooty,24.0
+"Savoy, Ooty - IHCL SeleQtions",11.41494,76.69288,Tamil Nadu,Ooty,50.0
+EVDay EVCS | Ottappalam | Manissery,10.777715299374591,76.34122770419708,Kerala,Ottappalam,45.0
+Taj Wayanad Resort and Spa- Tata Power,11.65763336,75.96043177655011,Kerala,Padinjarathara,30.0
+Banasura Sagar KSEB EVCS - ChargeMOD,11.672923978163226,75.95730580932587,Kerala,Padinjarathara,30.0
+EV Point EVCS | Pala,9.719752345,76.69166294010688,Kerala,Pala,60.0
+Flour Mill (EVOK) - ChargeMOD,9.711918348051457,76.6932445,Kerala,Pala,30.0
+Jim and Jims EVCS - ChargeMOD,9.691623797834922,76.64031694680193,Kerala,Pala,60.0
+EVee Buddy | Town Plug EVCS | Palakkad,10.76489386251312,76.65199428138283,Kerala,Palakkad,30.0
+IOCL Thiruvonam Fuels - Tata Power,10.76983098141102,76.6680965,Kerala,Palakkad,30.0
+Le Sky Dine EVCS - GO EC,10.773957251049566,76.69819741498287,Kerala,Palakkad,60.0
+Electrica EVCS - ChargeMOD,10.785354858796724,76.60395568328437,Kerala,Palakkad,30.0
+ANERT EESL - Chittur Thathamangalam Minicipality,10.692951545459948,76.72626208,Kerala,Palakkad,60.0
+Grand Hyundai - ChargeZone,10.790476610940487,76.65111938555197,Kerala,Palakkad,30.0
+Monsoon Empress Hotel EVCS,9.995959579488527,76.31410217952185,Kerala,Palarivattom,60.0
+Max EVCS - GO EC,9.998499333886071,76.31386095749048,Kerala,Palarivattom,60.0
+Jio BP Pulse Salem,11.82426,78.06513,Tamil Nadu,Pallapatti,60.0
+Wonderla - Statiq,10.02602207094047,76.39199597,Kerala,Pallikkara,60.0
+Pallam KSEB EVCS - ChargeMOD,9.543064906573704,76.51423132822606,Kerala,Pallom,30.0
+Pamba KSEB EVCS - ChargeMOD,9.412378118693468,77.06996856,Kerala,Pamba,30.0
+VAN-V | EVOK | Panamaram,11.72574709855104,76.07767336604513,Kerala,Panamaram,60.0
+Deepak Sales and Services - BPCL Petrol Pump,12.94928,74.81044,Karnataka,Panambur,30.0
+Hotel Eden Garden,10.11237,77.93769,Tamil Nadu,Pandiarajapuram,30.0
+CG Cafe EVCS - GO EC,11.139596145163637,76.23611346181906,Kerala,Pandikkad,60.0
+EcoCharge EVCS - ChargeMOD,11.096399860074245,76.21070705445254,Kerala,Pandikkad,30.0
+Hotel Nanjundeshwara,13.28586,77.18248,Karnataka,Pandithanahalli,24.0
+Reboost EVCS - ChargeMOD,11.754866634887236,75.57806506,Kerala,"Panoor, Kannur",30.0
+EcoVolt EVCS | EVOK | Pantheerankavu,11.235354677733028,75.84566829942764,Kerala,Pantheerankavu,60.0
+Sri Nathi Restaurant,11.27246,78.16423,Tamil Nadu,Pappinayakkanpatti,30.0
+EQ Power Buzz EVCS - ChargeMOD,9.187183740570958,76.70929549578068,Kerala,Paranthal,25.0
+Adhithya Green Power - ChargeMOD,9.180307946017876,76.70896676308257,Kerala,Paranthal,30.0
+Sam EVCV | Perinthalmanna,10.95035814349646,76.16323671441523,Kerala,Parinthalmanna,20.0
+EVOK Charging Stattion - ChargeMOD,8.819673867794634,76.75363730582768,Kerala,Parippalli,30.0
+DM Charging,8.812579175105057,76.75675170508435,Kerala,Parippilli,60.0
+Paruthippara KSEB EVCS - ChargeMOD,8.534933840840353,76.94198425748345,Kerala,Paruthippara,60.0
+Sihla Energy EVCS | Pathanadu,9.509674573,76.69336074121975,Kerala,Pathanadu,60.0
+Evergreen Continental EVCS - GO EC,9.263776809,76.7854353,Kerala,Pathanamthitta,30.0
+Phills Hub EVCS - ChargeMOD,9.316652369390567,76.80090226904508,Kerala,Pathanamthitta,60.0
+EVOK Pathanamthitta - ChargeMOD,9.306222052286827,76.80366578189017,Kerala,Pathanamthitta,30.0
+SS Hyundai - ChargeZone,9.277744925,76.75468311365398,Kerala,Pathanamthitta,30.0
+Phills Hub - Zeon,9.316719270744642,76.80097101612563,Kerala,Pathanamthitta,24.0
+ANERT EESL Milma Diary Plant - EESL,9.218788691780205,76.74875398321973,Kerala,Pathanamthitta,60.0
+SK EVCS - GO EC,9.070991645604138,76.85631123,Kerala,Pathanapuram,25.0
+Anupama EVCS | Pathiyoor,9.211019140228416,76.50314274183074,Kerala,Pathiyoor,30.0
+EV Super Charging Station,10.80479517192704,76.20815708375358,Kerala,Pattambi,30.0
+Pattambi Power Bank - GO EC,10.811068529416133,76.18644369742708,Kerala,Pattambi,30.0
+Medi Mall EVCS - ChargeMOD,10.801586108398226,76.17840842985345,Kerala,Pattambi,60.0
+Dream City Convention Center,10.55587198783526,76.32282252128522,Kerala,Pattikkad,24.0
+Pattom KSEB EVCS - ChargeMOD,8.516753527229795,76.93968817666752,Kerala,Pattom,60.0
+Pavangad KSEB EVCS - ChargeMOD,11.312411619159988,75.75859062889714,Kerala,Pavangad,30.0
+V-Net Shopping Complex - Tata Power,12.175048478868092,75.19343333,Kerala,Payyannur,30.0
+Exit 17 - GO EC,12.088637731621432,75.25264584630855,Kerala,Payyannur,30.0
+EQ Point EVCS - ChargeMOD,12.207766235160378,75.27945212654578,Kerala,Payyannur,25.0
+Al Ameemi Fast Charging Station,12.105660473422844,75.21173432031628,Kerala,Payyanur,40.0
+KVR Dream Vehicles Service Center - Tata Power,12.12000326238804,75.21755451244977,Kerala,Payyanur,30.0
+Mindful EVCS - ChargeMOD,11.520444916879685,75.61798774380324,Kerala,Payyoli,60.0
+Duke Communications | Pazhuvil,10.416437872608014,76.15367479,Kerala,Pazhuvil,30.0
+Amala Smart EVCS - GO EC,10.564967494138358,76.16598425547983,Kerala,Peramangalam,80.0
+Aswins Veg Restaurant,11.209,78.8828,Tamil Nadu,Perambalur,50.0
+Elite EVOK Charging Hub | Perinthalmanna,10.97774960516776,76.24286289,Kerala,Perinthalmanna,60.0
+InFour Wheel Care And Tyres - Tata Power,10.960237966009911,76.23467881441366,Kerala,Perinthalmanna,25.0
+TML KVR Automotive - Tata Power,10.984502724399704,76.18784701110644,Kerala,Perinthalmanna,30.0
+Shalimar EVCS - GO EC,10.96529678353042,76.28389833,Kerala,Perinthalmanna,25.0
+Hotel Mughal Park - ChargeMOD,10.977193894783383,76.22165088752695,Kerala,Perinthalmanna,60.0
+ANERT EESL - Moosakkutti Memorial Bus Stand,10.97506930502017,76.22228328115466,Kerala,Perinthalmanna,60.0
+Prestige EV Super Charging Station - GO EC,10.116599665826756,76.44569940523843,Kerala,Perumbavoor,60.0
+Future Clock EVCS - GO EC,10.08987328201421,76.49767034410803,Kerala,Perumbavoor,80.0
+Hotel Oottupura (EVOK) - ChargeMOD,10.130170867903814,76.47072020964066,Kerala,Perumbavoor,30.0
+Sri Kongu Bakes,11.28353,77.55823,Tamil Nadu,Perundurai,30.0
+Barakah Tiles and Stones | EVOK | Thenhipalam,11.144918979517485,75.89616975961107,Kerala,Pingottoormad,30.0
+Hotel Annapura,22.794234488352203,73.85882625545071,Gujarat,Piplod,60.0
+"Kaveri Garage, Piratiyur",10.79194,78.65714,Tamil Nadu,Piratiyur,24.0
+"Ibex River Resort, Pollachi",10.64693,76.91992,Tamil Nadu,Pollachi,7.4
+Clay Art Cafe - GO EC,9.566378511526397,76.74160751395914,Kerala,Ponkunnam,25.0
+Ponnani KSEB EVCS - ChargeMOD,10.77270262589785,75.94715150475236,Kerala,Ponnani,30.0
+Sihla Energy CV Junction,10.78474624498736,75.94715236357325,Kerala,Ponnanu,30.0
+Emily By JDaniels,8.494974778,76.97756797546737,Kerala,Poojappura,60.0
+Kay Pees Electricals (EVOK) - ChargeMOD,11.168867778013905,75.92676863268412,Kerala,Pulikkal,30.0
+Shashtri Nagar ,18.503925778446245,73.80373433483828,Maharashtra,Pune,1.0
+Punnapra KSEB EVCS - ChargeMOD,9.425616903,76.34677264043893,Kerala,Punnapra,30.0
+Erathu Motors EVCS - GO EC,9.051367403391126,76.70324696297251,Kerala,Puthoor,30.0
+Mahaveer Ventures Hotel and Resort - The Padival Grand,12.76619,75.19666,Karnataka,Puttur,24.0
+GL ONE MALL,12.76013,75.20645,Karnataka,Puttur,30.0
+Pearl EV Fast charger,16.20816450549769,77.35246660991561,Karnataka,Raichur,30.0
+Volttic LHS DME,27.287131064283077,76.77469481284459,Rajasthan,Rajpura,60.0
+MDS Bakery,9.3909,78.8514,Tamil Nadu,Ramanathapuram,30.0
+Bheemas Nalabagam,9.36109,78.84638,Tamil Nadu,Ramanathapuram,22.0
+Hotel Coral Residency,9.35954,78.83801,Tamil Nadu,Ramanathapuram,7.4
+Chima Cars,9.36718,78.8099,Tamil Nadu,Ramanathapuram,25.0
+EVee Buddy | Vedas Energy EVCS | Ramapuram,9.796182731293456,76.66330810978661,Kerala,Ramapuram,80.0
+SRM Eshwari College,13.03523121,80.19546897036247,Tamil Nadu,Ramapuram Chennai,7.2
+Tucker Rameswaram,9.28616,79.27707,Tamil Nadu,Rameshwaram,25.0
+Hotel Star palace,9.28468,79.29506,Tamil Nadu,Rameswaram,22.0
+CAFE PARADISE FAMILY RESTAURANT,15.43437,74.46271,Karnataka,Ramnagar,60.0
+NEW POESH GARDEN - FAMILY RESTAURANT,11.44779,78.16161,Tamil Nadu,Rasipuram,60.0
+Adyar Ananda Bhavan - A2B,11.49253,78.15367,Tamil Nadu,Rasipuram,60.0
+Shree Kanha International Chargezone,23.3865133246122,75.05985128378688,Madhya Pradesh,Ratlam,60.0
+Tata Power- Ginger Hotel Pantnagar,28.998167113138976,79.41578575985898,Uttarakhand,Rudrapur,30.0
+Ecoplug Radisson Blu Hotel,29.00038213149669,79.39987738,Uttarakhand,Rudrapur,118.0
+BP-RUDRAPUR,28.994841574837157,79.40068624557932,Uttarakhand,Rudrapur,60.0
+PREM SINGH & SONS (BPCL Charging Station),28.978596821134563,79.40045316567043,Uttarakhand,Rudrapur,30.0
+ Rudra Continental,28.97584854,79.38954231232401,Uttarakhand,Rudrapur,60.0
+Click Hotel Sadahalli,13.19218,77.64652,Karnataka,Sadahalli,30.0
+Zibe Salem by GRT Hotels,11.66543,78.14509,Tamil Nadu,Salem,7.4
+The True Saai Works Salem,11.68287,78.12606,Tamil Nadu,Salem,25.0
+MG Salem,11.69299,78.11234,Tamil Nadu,Salem,30.0
+Salem RR Biryani,11.72134,78.07146,Tamil Nadu,Salem,60.0
+"Sree Saravana Bhavan, Sankagiri",11.4866,77.99226,Tamil Nadu,Sangagiri,30.0
+Hotel Mayur Express,19.520114483627125,74.20273682326365,Maharashtra,Sangamner,30.0
+Sai Annapoorna Veg,11.57838,78.14588,Tamil Nadu,Santhiyur,60.0
+RRK Hitech Petroleum,11.57853,78.14611,Tamil Nadu,Santhiyur,60.0
+Italian Lounge - Cafe 66,12.34146,78.21598,Tamil Nadu,Sappanipatti,60.0
+Rest Area Mumbai - Vadodara Expressway,22.170156061343988,73.08761282093997,Gujarat,Saraswani,30.0
+NE4 Eest Area Saraswani,22.18022593297984,73.08990857907611,Gujarat,Saraswani,30.0
+Punjabi Dhami Hotel,17.8286,76.90048,Karnataka,Sastapur,30.0
+Ashitha Enterprises BPCL,13.47826,74.7132,Karnataka,Sasthan,30.0
+"Zeon Charging, Sathy",11.48992391991976,77.24369168562515,Tamil Nadu,Sathyamangalam,24.0
+Shirdi,19.75759398843948,74.47634733215602,Maharashtra,Shirdi,30.0
+Starbucks & KFC Shoolagiri ,12.6807,77.95265,Tamil Nadu,Shoolagiri,60.0
+ANERT EESL - Kulappulli Bus Stand,10.781016444981958,76.27832766263367,Kerala,Shornur,60.0
+M/S T.S Tawady - BPCL,14.341170986862268,74.89089758268335,Karnataka,Siddapur,30.0
+Saravana Bhavan Classic,12.58858,78.14646,Tamil Nadu,Sikkarimedu,60.0
+New Sangeeta Gardens Family Restaurant,16.93447,76.26145,Karnataka,Sindgi Rural,60.0
+Paakashala Sira,13.75492,76.88246,Karnataka,Sira,160.0
+"TSS Super Market, Sirsi",14.624314302978265,74.84155546196445,Karnataka,Sirsi,30.0
+Hotel Kantara Dine,13.06457377178711,77.25712516384169,Karnataka,Solur,30.0
+Ashoka Village Resort,17.15414,75.79103,Karnataka,Sonakanahalli,30.0
+Nuke EVCS - ChargeMOD,8.548542374667107,76.91829327971476,Kerala,Sreekaryam,30.0
+Lakshmi KRS EVCS - ChargeMOD,10.898080110436226,76.39529564847953,Kerala,Sreekrishnapuram,30.0
+Hotel Sharada Comforts,13.42865,75.25619,Karnataka,Sringeri,7.0
+Hotel Paradise,16.14641,74.21505,Maharashtra,Sulgaon,60.0
+Issacs Centre Square - Zeon,11.661242260762606,76.25568142399845,Kerala,Sulthan Batheri,24.0
+IOCl Balaji Petroleum - Tata Power,11.660943020691448,76.24002282400443,Kerala,Sulthan Bathery,30.0
+Adhithya (EVOK) - ChargeMOD,11.66208634339526,76.26492171189932,Kerala,Sulthan Bathery,60.0
+DSquare Food Hub,12.64608,78.04741,Tamil Nadu,Sundagiri,24.0
+Manjunath Fuel Service-BPCL,14.14024,75.55737,Karnataka,Surahonne,30.0
+Rajani Fuel Centre,13.65205,74.70635,Karnataka,Tallur,30.0
+Jio BP Dindigul,10.42633,77.95391,Tamil Nadu,Thadikombu,30.0
+A.R. Fuels,10.42743,77.95434,Tamil Nadu,Thadikombu,30.0
+Down Town Mall - Zeon,11.745123385253224,75.49541917459942,Kerala,Thalasseri,60.0
+KVR Dream Vehicles Thalassery - Tata Power,11.761734248724949,75.50906837861191,Kerala,Thalassery,30.0
+EQ ChargeMate - ChargeMOD,9.798850817452347,76.45988738,Kerala,Thalayolaparambu,30.0
+EQ Sprinkle EVCS | Thaliparamba,12.048654635370426,75.34628006166724,Kerala,Thaliparamba,40.0
+HOTAG EV Charging Station - GO EC,11.404693280918323,75.92956805877805,Kerala,Thamarassery,25.0
+Thamarassery KESEB EVCS - ChargeMOD,11.444087429515278,75.95587690828086,Kerala,Thamarassery,30.0
+Chillax EVCS (EVOK) - ChargeMOD,9.985005178404208,76.31606543,Kerala,Thammanam,30.0
+OM MADURAI SARAVANA BHAVAN,9.78446,78.094274,Tamil Nadu,Thangalacheri,30.0
+"Jayaraj Karz, Vallam Pudur Sethi",10.728,79.04692,Tamil Nadu,Thanjavur,30.0
+Empire Restaurant - ChargeMOD,11.736405311635153,75.98674422775375,Kerala,Tharuvana,60.0
+Hotel Temple City,10.07991,77.97778,Tamil Nadu,Thathampatti,50.0
+IOCL - MK Petroleum - Tata Power,11.860150179085252,75.41434121644008,Kerala,Thazhe Chovva,30.0
+Thenmala EVOK - ChargeMOD,8.966824195605966,77.05562962995492,Kerala,Thenmala,30.0
+Green Valley - GO EC,10.69271606194583,76.26858375420068,Kerala,Thirissur,60.0
+Nesto Hypermarket Zeon,10.907726245273937,75.92032568189924,Kerala,Thirur,60.0
+Regency Tiruttani by GRT Hotels,13.19516,79.64576,Tamil Nadu,Thiruttani,24.0
+EVOK Charging Station | Thiruvalla,9.357343562392998,76.59062444761048,Kerala,Thiruvalla,80.0
+Wealfro EV Hub,9.421076267,76.54613416788874,Kerala,Thiruvalla,40.0
+Anand Hypermarket - ChargeMOD,9.373321982204288,76.56481064983558,Kerala,Thiruvalla,25.0
+JKV Powern Hub EVCS | Palayam,8.500476045362007,76.95228964181433,Kerala,Thiruvananthapuram,90.0
+Chandra EVCS | Pettah,8.494429796646727,76.93007271012243,Kerala,Thiruvananthapuram,45.0
+EV Park ECVS Kazhakkoottam | Karthika Park Hotel,8.572651965073888,76.87040125713293,Kerala,Thiruvananthapuram,90.0
+EQ Future Mobility Thakkaram,8.578585530292187,76.86647624850741,Kerala,Thiruvananthapuram,20.0
+Eco Charge Hub - GO EC,8.353208648493009,77.05379011708595,Kerala,Thiruvananthapuram,60.0
+Appolo Dimora Hotel EVCS - GO EC,8.488661007,76.95075167233603,Kerala,Thiruvananthapuram,30.0
+Lulu International Mall EVCS - GO EC,8.515262881600336,76.89815843780872,Kerala,Thiruvananthapuram,60.0
+Trivandrum UST Campus EVCS - GO EC,8.539993047929073,76.88442500297742,Kerala,Thiruvananthapuram,7.4
+ChargeMOD EVCS,8.357873853342397,77.07294497953484,Kerala,Thiruvananthapuram,40.0
+ANERT - EESL Sangamukham - EESL,8.481014702107387,76.91264314471567,Kerala,Thiruvananthapuram,60.0
+Marvel Paints - ChargeZone,8.535706208418148,76.96526204012383,Kerala,Thiruvananthapuram,30.0
+Edackodu Bank EVCS,8.671500192022364,76.83499833192644,Kerala,Thiruvananthapuram,60.0
+Kerala EV Vembayam,8.651754842325019,76.92797970100514,Kerala,Thiruvananthapuram,60.0
+Ultralink EVCS Charging Station,8.330756913,77.14237583090846,Kerala,Thiruvananthapuram,30.0
+Club Mahindra Resort Poovar,8.306583673324084,77.08608641188243,Kerala,Thiruvananthapuram,22.0
+Powerhub EVCS Attukal,8.466545109222693,76.96080801045264,Kerala,Thiruvananthapuram,30.0
+Sleeba & Sons Station,8.544983421,76.97229843917057,Kerala,Thiruvananthapuram,60.0
+JKV Power Hub ,8.503667854,76.95391617176614,Kerala,Thiruvananthapuram,30.0
+Hilton Garden Inn Trivandrum,8.499635232,76.95029905839203,Kerala,Thiruvananthapuram,60.0
+CBC Motors Charging Station,8.465871552402248,76.93909758,Kerala,Thiruvananthapuram,60.0
+Trivandrum Airport T1,8.476057964902722,76.91830975328156,Kerala,Thiruvananthapuram,30.0
+Trivandrum Airport T2,8.488386743772637,76.92245062858052,Kerala,Thiruvananthapuram,30.0
+V Kay Super Market,8.575089637161042,76.86841738658734,Kerala,Thiruvananthapuram,30.0
+Delta Power Kulathoor,8.542037312716715,76.87581948417585,Kerala,Thiruvananthapuram,60.0
+KIMS Hospital Trivandrum (EVOK),8.514470785074025,76.90784744038086,Kerala,Thiruvananthapuram,40.0
+Alpha EVCS Yahoo Super Bazar,8.510831844705734,76.90484031941787,Kerala,Thiruvanthapuram,60.0
+Sanjeevani Green - GO EC,10.710021712685972,76.42879294152868,Kerala,Thiruvilwamala,25.0
+Pineapple City EVCS - ChargeMOD,9.946157359688044,76.635631,Kerala,Thodupuzha,60.0
+Hotel Woodlands - ChargeMOD,9.917340697,76.68758141119349,Kerala,Thodupuzha,30.0
+Thodupuzha KSEB EVCS - ChargeMOD,9.892123471651985,76.70853053,Kerala,Thodupuzha,30.0
+Regency Tuticorin by GRT Hotels,8.7816,78.10053,Tamil Nadu,Thoothukudi,30.0
+EVGO Hub - GO EC,10.035673992083431,76.33644845243788,Kerala,Thrikkakkara,30.0
+Raos EVCS - ChargeMOD,9.932546342,76.38829398,Kerala,Thrippunithara,30.0
+PPG Home EVCS - ChargeMOD,9.932987601606117,76.38873573076705,Kerala,Thrippunithara,60.0
+MPA Tyres EVCS - GO EC,9.962610267571378,76.35800116158748,Kerala,Thrippunithura,30.0
+Central Talkies EVCS - GO EC,9.948953177742126,76.34771091840872,Kerala,Thrippunithura,60.0
+M Star EVCS | Koorkenchery,10.511219802362843,76.21322686637518,Kerala,Thrissur,50.0
+Tata.ev Hyson Motors - Tata Power,10.496728474625243,76.25836131243113,Kerala,Thrissur,60.0
+PCK Centenary,10.522940422798897,76.20624766653009,Kerala,Thrissur,30.0
+TML Hyson Motors - Tata Power,10.540422993964356,76.18967782467394,Kerala,Thrissur,25.0
+Sree Rama EVCS - GO EC,10.435594973940098,76.26587468424111,Kerala,Thrissur,60.0
+Daiz and Co. EVCS - GO EC,10.526149574968883,76.18795462415846,Kerala,Thrissur,30.0
+Shobha City Mall EVCS - GO EC,10.548946556742209,76.18304110696954,Kerala,Thrissur,60.0
+Plug and Share Charge EVCS - ChargeMOD,10.540561786051626,76.21568678106814,Kerala,Thrissur,30.0
+Vydyuthi Bhavan KSEB EVCS - ChargeMOD,10.527794705960048,76.20534384591946,Kerala,Thrissur,30.0
+V8 Car Spa (EVOK) - ChargeMOD,10.521332304786895,76.23075684655782,Kerala,Thrissur,30.0
+Guardian EV Charging Station by Imminent Future - ChargeMOD,10.522036160727891,76.22756889930918,Kerala,Thrissur,30.0
+Flash Hub EVCS - ChargeMOD,10.504451667440918,76.22534147,Kerala,Thrissur,30.0
+Korner EVCS - ChargeMOD,10.367048481339792,76.31535658210885,Kerala,Thrissur,30.0
+ANERT EESL - KILA Thrissur,10.601581892750232,76.21488230874667,Kerala,Thrissur,60.0
+Nesto Hypermarket,10.53992625,76.19288757731226,Kerala,Thrissur,60.0
+Chennai Ananda Bhavan,10.51275970432485,76.25891674593504,Kerala,Thrissur,60.0
+Hilite Mall,10.49548871358526,76.25680252890044,Kerala,Thrissur,120.0
+Illam Chacka,8.491842863574092,76.9201682,Kerala,Thriuvananthapuram,80.0
+"Kaveri Garage, Tiruchirapalli",10.85843,78.71129,Tamil Nadu,Tiruchirappalli,50.0
+Bharat Petroleum COCO Pump Thirupuvanam,9.81293,78.26301,Tamil Nadu,Tiruppuvanam,30.0
+BP Angadi | EVOK | Tirur,10.88631362374086,75.93057433099898,Kerala,Tirur,30.0
+AAK Mall,10.918580614575076,75.91779832596808,Kerala,Tirur,30.0
+Tirur KSEB EVCS - ChargeMOD,10.916247276818709,75.91828654,Kerala,Tirur,30.0
+"Sree Auto, Tumkur",13.34529,77.08027,Karnataka,Tumakuru,30.0
+Burger King,12.960134461557354,76.33023905539169,Karnataka,Udayapura,120.0
+Hotel Sharadha International,13.34939,74.73729,Karnataka,Udupi,30.0
+Paradise Isle Beach Resort,13.36063,74.69908,Karnataka,Udupi,7.0
+Malpe Fish Trade Center,13.35205,74.70382,Karnataka,Udupi,60.0
+Kaustubha Residency,13.29373,74.74513,Karnataka,Udupi,30.0
+Ecozone EVCS | Ulliyeri,11.446514859247143,75.77262022445586,Kerala,Ulliyeri,30.0
+"Cafe Udupi Ruchi, Ulundurpet",11.71937,79.33668,Tamil Nadu,Ulundurpet,30.0
+Hotel Poorvi,15.638844102151054,76.22021126845289,Karnataka,Uppaldinni,60.0
+Highway Star Mall,13.13885,78.20935,Karnataka,Vadagur,120.0
+ANERT EESL - Aahar Restaurant Vadakara,11.586364891391128,75.59322033744107,Kerala,Vadakara,60.0
+Jeevz - GO EC,10.593239028175065,76.48253527396616,Kerala,Vadakkencherry,25.0
+Amigo EV Charge Hub | Marygiri | Vadakkenchery,10.584055517894868,76.43581742,Kerala,Vadakkenchery,30.0
+Vadakkenchery KSEB EVCS - ChargeMOD,10.59723817456826,76.47984937,Kerala,Vadakkenchery,30.0
+Sree Sankara EVCS - GO EC,10.487291202025474,76.07083611597062,Kerala,Vadanappalli,60.0
+Green Drive EV Super Charging Station,10.494542466430332,76.06584744162075,Kerala,Vadanappilly,60.0
+Regenta Fairlark,22.28764514676448,73.13222578916577,Gujarat,Vadodara,60.0
+Regenta Fairlark Jio,22.28852323216184,73.13209856350943,Gujarat,Vadodara,60.0
+Flash Charge EVCS | Vagamon,9.688898073953794,76.90444842810166,Kerala,Vagamon,20.0
+EQ Vagamon EV Port - ChargeMOD,9.684303987,76.89548263873428,Kerala,Vagamon,30.0
+Gilgal EVCS | Fill Nxt | Valakom,8.962957682899102,76.83555763990444,Kerala,Valakom,30.0
+IOCL Sigma Enterprises Charging Station - Tata Power,10.897914194795774,76.06100966592317,Kerala,Valanchery,30.0
+Green Zone EVCS - GO EC,10.873413080879716,76.06245822988649,Kerala,Valanchery,60.0
+Valappad KSEB EVCS - ChargeMOD,10.401732210974814,76.11933511778938,Kerala,Valappad,30.0
+Keerthi Residency,9.35021,78.88531,Tamil Nadu,Vani,7.4
+7 Star Green Veg Restaurant,12.64682,78.58269,Tamil Nadu,Vaniyambadi,60.0
+Gopika EV Charging Station - GO EC,10.087291499865684,76.26789062743649,Kerala,Varappuzha,25.0
+Power Up EVCS - GO EC,8.74908605,76.70581858621796,Kerala,Varkala,25.0
+KVE Charge - Charge-Zone,8.737548356185883,76.70789801259406,Kerala,Varkkala,30.0
+Mountainpass Residency - ChargeMOD,11.386628059572274,76.35472249074127,Kerala,Vazhikadavu,30.0
+Pearl Garden Resort,8.53918,78.11771,Tamil Nadu,Veerapandianpattinam,24.0
+Golden Sand,10.68292,79.8478,Tamil Nadu,Velankanni,24.0
+Velanthavalam,10.809362994233211,76.84632159,Kerala,Vellamthavalam,30.0
+RB Business Centre,12.86196,79.13251,Tamil Nadu,Vellore,30.0
+Regency Sameera Vellore by GRT Hotels,12.93209,79.13843,Tamil Nadu,Vellore,24.0
+EQ TP Power | Vellur,12.149897992825927,75.21263664,Kerala,Vellur,30.0
+Kairali EVCS | Vengalam,11.364746011174972,75.73944992877182,Kerala,Vengalam,60.0
+Green Drive EVCS - ChargeMOD,11.034502393123477,76.26188661,Kerala,Vengoor,30.0
+Jayalakshmi Silks EVCS | CAPGO | Vennala,10.003945576726636,76.3133535,Kerala,Vennala,60.0
+HIQ Highway Market - GO EC,11.021175494360463,75.94812608969005,Kerala,Venniyour,30.0
+Hotel Sri Anandhas,11.59206,79.15621,Tamil Nadu,Veppur,50.0
+Bijjargi Motors,16.849167933158057,75.73497557870112,Karnataka,Vijayapura,30.0
+S-Hyper Mart,16.81325,75.7416,Karnataka,Vijayapura,60.0
+Club Mahindra Resort - Virajpet,12.20992,75.73586,Karnataka,Virajpet,22.0
+Hotel Arun Cafe,10.6244,78.56317,Tamil Nadu,Viralimalai,24.0
+Vythiri KSEB EVCS - ChargeMOD,11.545753724925504,76.03937192662642,Kerala,Vythiri,30.0
+Sunvolt DLF Riverside | Vyttila,9.95922402244898,76.31419020501517,Kerala,Vyttila,30.0
+Evee Buddy - Memaid EVCS - ChargeMOD,9.971684804361004,76.32415963358551,Kerala,Vyttila,30.0
+Broad Bean Hotel (EVOK) - ChargeMOD,9.962667763402436,76.31821354245426,Kerala,Vyttila,60.0
+Vyttila KSEB EVCS - ChargeMOD,9.962901962801451,76.31922070618452,Kerala,Vyttila,30.0
+SR Power Hub - ChargeMOD,10.6444113065335,76.23665238,Kerala,Wadakkanchery,60.0
+Ahalia Walayar - GO EC,10.826593048149787,76.82605307444436,Kerala,Walayar,60.0
+Travlounge - Palakkad,10.82633,76.82033,Kerala,Walayar,30.0
+Moto Town Auto Hub - Tata Power,11.223249596398574,76.21691525,Kerala,Wandoor,30.0
+IOCL Aaditya Petroleum Naduvath Charging Station - Tata Power,11.211054369500443,76.22468507295008,Kerala,Wandoor,30.0
+Wellington Gymkhana Club,11.36142,76.79607,Tamil Nadu,Wellington,22.0
+SLV Hotel & Family Restaurant,16.749470877729507,77.13011819812817,Karnataka,Yadgir,30.0
+Tata Power Yamuna Expressway Mathura Exit LHS,27.55039596637711,77.75506264207092,Uttar Pradesh,Yamuna Expressway,120.0
+Tata PowerYamuna Expressway Mathura RHS,27.61204701128193,77.74185073192439,Uttar Pradesh,Yamuna Expressway,120.0
+HR Motel,15.9663,75.01014,Karnataka,Yaragatti,60.0
+TSS Super market,14.96012,74.71765,Karnataka,Yellapur,30.0
+USHA KIRAN SERVICE STATION,15.7612,77.46571,Andhra Pradesh,Yemmiganur,30.0
